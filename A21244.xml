@@ -1,0 +1,864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dignity and duty of a Christian Published and set forth to comfort and encourage all those which be truly Christs, to continue in him, and to be faithfull to the death. By Mr. Iohn Abernethie, Bishop of Cathnes in Scotland.</title>
+            <author>Abernethy, John, d. 1639.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 85 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21244</idno>
+            <idno type="STC">STC 76</idno>
+            <idno type="STC">ESTC S115592</idno>
+            <idno type="EEBO-CITATION">99850810</idno>
+            <idno type="PROQUEST">99850810</idno>
+            <idno type="VID">16038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 905:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dignity and duty of a Christian Published and set forth to comfort and encourage all those which be truly Christs, to continue in him, and to be faithfull to the death. By Mr. Iohn Abernethie, Bishop of Cathnes in Scotland.</title>
+                  <author>Abernethy, John, d. 1639.</author>
+               </titleStmt>
+               <extent>[8], 160 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by F. K[ingston] for Iohn Budge, and are to bee sold at the signe of the Greene Dragon, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: The duty of a Christian.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16038:1"/>
+            <pb facs="tcp:16038:1"/>
+            <p>THE DIGNITY AND DVTY OF A CHRISTIAN.</p>
+            <p>PVBLISHED AND SET FORTH TO COM<g ref="char:EOLhyphen"/>fort and encourage all thoſe which be truly Chriſts, to continue in <hi>him, and to be faithfull to the death.</hi>
+            </p>
+            <p>By M<hi rend="sup">r</hi>. IOHN ABERNET<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>R, <hi>Biſhop of</hi> CATHNES <hi>in Scotland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Imprinted by F. K. for <hi>Iohn Budge,</hi> and are to bee ſold at the ſigne of the Greene Dragon, in Pauls Church-yard. 1620.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:16038:2"/>
+            <pb facs="tcp:16038:2"/>
+            <head>TO THE RIGHT HONOVRABLE and Religious Lady, Dame <hi>Margaret Stuart,</hi> Lady <hi>Ochiltrie,</hi> all happineſſe bee multiplied.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S many ſeeme to themſelues to bee ſome<g ref="char:EOLhyphen"/>thing, when they are nothing, deceiuing themſelues in their owne imagination: So many (out of an idle preſumption, and
+<pb facs="tcp:16038:3"/>bare profeſsion) dreame to themſelues that they are Christs, when they are none of his, vnder the vaile of hypocriſie, hauing onely a name that they are liuing, when they are dead. If they had any ſparke of a true de<g ref="char:EOLhyphen"/>ſire of their owne ſaluation, they ſhould rather giue all diligence to make their Cal<g ref="char:EOLhyphen"/>ling and Election ſure, and carefully endeuour both to become, and to bee aſſured that they are Chriſts; which is mans higheſt happineſſe: And to teſtifie the ſame, by crucifying of the fleſh, with the affections and luſts; which is mans moſt thankfull duty. This little
+<pb facs="tcp:16038:3"/>Treatiſe ſerueth to giue in<g ref="char:EOLhyphen"/>ſtruction herein, and to comfort and encourage all thoſe that are truly Chriſts; to continue in him, and to be faithfull to the death. I deliuered it in one of my ordinary Sermons, whereof <hi>(Madam)</hi> you were then one of my accuſtomed hea<g ref="char:EOLhyphen"/>rers. It was immediatly penned, but it came not a<g ref="char:EOLhyphen"/>gaine into my hands till now. I haue thought it good to put it forth vnder your Ladiſhips name, worthy to bee remembred. Your La<g ref="char:EOLhyphen"/>diſhip is the godly mother of many godly children: and in ſpeciall, the mother of that worthy and truly re<g ref="char:EOLhyphen"/>ligious
+<pb facs="tcp:16038:4"/>daughter, Dame <hi>Anna,</hi> Lady <hi>Ferniherſt,</hi> my faithfull friend, who now reſts in the Lord, and fully feeleth that ſhee was, and is Chriſts. Your Ladi<g ref="char:EOLhyphen"/>ſhip hath been alwayes to all, a mirrour of ſincere and conſtant godlines: and, for that reſpect was had of your true piety and grauity; your Ladiſhip obtained once that honour, as the fitteſt Lady to attend our late gracious Queene of worthy memory; and to haue vnder your hand this our most gracious Prince in his tender Infancy. But a<g ref="char:EOLhyphen"/>boue all theſe, God hath ho<g ref="char:EOLhyphen"/>noured you by his ſpeciall
+<pb facs="tcp:16038:4"/>and ſauing grace: and gi<g ref="char:EOLhyphen"/>uen you this dignity with the reſt of his Saints, to be verily one of Chriſts, that you may confidently ſay, and ſing with the Church, <hi>My Beloued is mine, and I am his.</hi> Theſe conſiderati<g ref="char:EOLhyphen"/>ons (amongst many other) haue moued me to dedicate this Manuell vnto you. If by peruſing it, you reape any co<g ref="char:cmbAbbrStroke">̄</g>fort, as once you did when you firſt heard it: and if it can benefit any other, it is all the gaine that I expect for my paines. And ſo wiſhing your La. all happineſſe in Chriſt our Sauiour, I ſhall e<g ref="char:EOLhyphen"/>uer abide,</p>
+            <closer>
+               <signed>Your La. very af<g ref="char:EOLhyphen"/>fectionate friend, <hi>I. B. of Cathnes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:16038:5"/>
+            <pb n="1" facs="tcp:16038:5"/>
+            <head>A CHRISTIAN, HIS DIGNITY and Duty.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Galat. 5.24.</hi>
+                  </bibl>
+                  <p>For they that are Christs, haue crucified the fleſh, with the affections and the luſts.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="section">
+               <head>1. <hi>The dignity of a Chriſtian.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Apoſtle in theſe words perſwadeth the Galati<g ref="char:EOLhyphen"/>ans, that there is no law
+<pb n="2" facs="tcp:16038:6"/>againſt them that bring forth the fruits of the Spirit: becauſe that ſuch are Chriſts, who doe crucifie the fleſh, with the affections and luſts. So that the fruit<g ref="char:EOLhyphen"/>full in Chriſt the root, Reuel. 22.16. are ſaued; not for the fruits cauſe, but for the roots cauſe: For <hi>There is no condem<g ref="char:EOLhyphen"/>nation to them that are in Chriſt Ieſus, which walke not after the fleſh, but af<g ref="char:EOLhyphen"/>ter the Spirit, Rom.</hi> 8.1.</p>
+               <p>Theſe words con<g ref="char:EOLhyphen"/>taine our greateſt dig<g ref="char:EOLhyphen"/>nity; which is, to bee Chriſts. And our moſt neceſſary duty, to <hi>cru<g ref="char:EOLhyphen"/>cifie
+<pb n="3" facs="tcp:16038:6"/>the fleſh, &amp;c.</hi> This is the Chriſtian dignity of thoſe <hi>Excellent ones,</hi>
+                  <note place="margin">The Chri<g ref="char:EOLhyphen"/>ſtian dig<g ref="char:EOLhyphen"/>nity.</note> Pſa. 16.3. who in Chriſt haue their <hi>Priuiledge</hi> to become the ſonnes of God, Ioh. 1.12. and a right to the <hi>tree of life,</hi> Reuel. 22.14. and that becauſe they are <hi>Chriſts.</hi> Wherein theſe things following are to bee conſidered.</p>
+            </div>
+            <div n="2" type="section">
+               <head>2. <hi>What is it to be Chriſts?</hi>
+               </head>
+               <p>THey y<hi rend="sup">t</hi> are Chriſts,
+<note place="margin">A deſcrip<g ref="char:EOLhyphen"/>tion of thoſe that are Chriſts.</note> are not onely his in generall, or by profeſſi<g ref="char:EOLhyphen"/>on:
+<pb n="4" facs="tcp:16038:7"/>but in ſpeciall, by his ſauing grace, as e<g ref="char:EOLhyphen"/>lected in him, before the foundation of the world: and in his owne time vnited to him by faith, into a moſt neere fellowſhip, by the po<g ref="char:EOLhyphen"/>wer of the holy Spirit: that they may bee ſo wholly his, and parta<g ref="char:EOLhyphen"/>kers of all his bleſſings, that they may apper<g ref="char:EOLhyphen"/>taine to him more than to all others, and that he may be alſo theirs, whereof they haue a comfortable ſence and feeling in this life, and a full fruition in the life to come.</p>
+               <pb n="5" facs="tcp:16038:7"/>
+               <p> This deſcriptio<g ref="char:cmbAbbrStroke">̄</g> doth ſpread it ſelfe into ma<g ref="char:EOLhyphen"/>ny branches, to bee ex<g ref="char:EOLhyphen"/>planed as followeth.</p>
+               <p>Some are Chriſts in <hi>generall,</hi> ſome in <hi>ſpeciall.</hi> For hee hath giuen to him of his Father, <hi>po<g ref="char:EOLhyphen"/>wer ouer all fleſh, that hee ſhould giue eternall life to as many as the Father hath giuen him,</hi> Ioh. 17.2.
+<note place="margin">To be Chriſts in generall by ſubiection.</note> They that are Chriſts in generall, are his, as he is the <hi>Head of all prin<g ref="char:EOLhyphen"/>cipalitie and power,</hi> Col. 1.18. Reuel. 1.5. and 17.14. and 19.16. <hi>All po<g ref="char:EOLhyphen"/>wer is giuer to him both in heauen and in earth,</hi> Mat. 28.18. <hi>In all things
+<pb n="6" facs="tcp:16038:8"/>he hath the preeminence,</hi> Coloſ. 1.18. <hi>He is exal<g ref="char:EOLhyphen"/>ted aboue all things.</hi> Eph. 1.20. <hi>Exalted highly a<g ref="char:EOLhyphen"/>boue euery name,</hi> Phil. 2.9. <hi>All things were created by him, and for him: hee is before all things, and in him all things doe con<g ref="char:EOLhyphen"/>ſiſt,</hi> Col. 1.16, 17. Ioh. 1.3. <hi>Bearing vp all things by his mighty word,</hi> Heb. 1.3. <hi>Hee is Lord ouer the quicke and the dead: Iudge ouer all,</hi> Rom. 13.9, 10.</p>
+               <p>So all men are <hi>Chriſts</hi> in <hi>generall:</hi> and (with all other things) are put <hi>in ſubiection vnder his feet,</hi> Epheſ. 1.20. Heb. 2.8. <hi>That at the name of
+<pb n="7" facs="tcp:16038:8"/>Ieſus, euery knee ſhould bow,</hi> Phil. 2.9, 10. To be Chriſts this way,
+<note place="margin">All things are Chriſts in generall.</note> is very common. All men are Chriſts, as hee is their Lord. All reprobates and diuels are Chriſts, as hee is their Iudge. All the Regenerate are Chriſts, as hee is their King. To be Chriſts af<g ref="char:EOLhyphen"/>ter this manner, is not the Saints prerogatiue. We muſt therforegiue all diligence to goe be<g ref="char:EOLhyphen"/>yond the whole crea<g ref="char:EOLhyphen"/>tures,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> in appertaining to Chriſt, and become Chriſts in a neerer and more ſpeciall man<g ref="char:EOLhyphen"/>ner.</p>
+               <pb n="8" facs="tcp:16038:9"/>
+               <p> They that are Chriſts in Speciall (here ſpeci<g ref="char:EOLhyphen"/>ally meant) are his:
+<note place="margin">To bee Christs in ſpeciall by grace.</note> as he is the <hi>Prince of their ſaluation,</hi> Heb. 1.10. <hi>The head of his body which is his Church,</hi> Epheſ. 1.22. Col. 1.18. Epheſ. 5.23. As a <hi>Sonne, he is ouer his owne houſe: whoſe houſe we are,</hi> Heb. 3.6. <hi>Their Redeemer,</hi> Epheſ. 1.7. <hi>The Sauiour of his body,</hi> Epheſ. 5.23. <hi>Hee hath bought them for a price,</hi> 1. Cor. 6.20. <hi>Hee hath purchaſed them with his owne blood,</hi> Act. 20.28. He knits them to him<g ref="char:EOLhyphen"/>ſelfe: he furniſheth them with his grace, and ma<g ref="char:EOLhyphen"/>keth
+<pb n="9" facs="tcp:16038:9"/>the<g ref="char:cmbAbbrStroke">̄</g> encreaſe with the <hi>encreaſing of God,</hi> Col. 2.19.</p>
+               <p>Let vs therfore haue a ſpeciall care to be<g ref="char:EOLhyphen"/>come Chriſts in ſpeci<g ref="char:EOLhyphen"/>all.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> 
+                  <hi>Many ſay, Who will ſhew vs any good?</hi> Pſalm. 4.6. But heere is of all good things the beſt, to be Chriſts. And as <hi>Peter</hi> ſaid to Chriſt at his Transfiguration: <hi>It is good for vs to bee heere,</hi> Luk. 9.33. So wee may all ſay in our Regenera<g ref="char:EOLhyphen"/>tion, It is good to bee Chriſts. It is the moſt happy eſtate of man: there is no ſolid nor conſtant comfort, but
+<pb n="10" facs="tcp:16038:10"/>in it, and as <hi>Dauid</hi> ſaid, <hi>I had rather bee a doore<g ref="char:EOLhyphen"/>keeper in the houſe of my God, than to dwell in the Tabernacles of wicked<g ref="char:EOLhyphen"/>neſſe,</hi> Pſal. 84.10.</p>
+               <p>So euery one ſhould ſay, I had rather be the leaſt of thoſe that are Chriſts; than to be the heire of y<hi rend="sup">e</hi> greateſt Mo<g ref="char:EOLhyphen"/>narch, without Chriſt, Gal. 3.29.</p>
+            </div>
+            <div n="3" type="section">
+               <head>3. <hi>Who are not Chriſts?</hi>
+               </head>
+               <p>AS Chriſt ſaid,
+<note place="margin">Many are not Chriſts.</note> 
+                  <hi>Hee that is not with me, is againſt me,</hi> Math. 12.30. ſhewing that there
+<pb n="11" facs="tcp:16038:10"/>was many both againſt him, and not with him. So doth the Apoſtle heere inſinuate that all are not Chriſts. For all men haue not faith, 2. Theſ. 3.2. neither doe all crucifie the fleſh. It is therefore requiſite that we know who are not Chriſts. The diuels are not his: as that Le<g ref="char:EOLhyphen"/>gion cried, <hi>What haue I to doe with thee, Ieſus, the Sonne of the moſt high God?</hi> Mark. 5.7. A Re<g ref="char:EOLhyphen"/>probate ſhall neuer be<g ref="char:EOLhyphen"/>come Chriſts. An A<g ref="char:EOLhyphen"/>theiſt, an Epicure, an Impenitent, a ſwiniſh and worldly Gadarene,
+<pb n="12" facs="tcp:16038:11"/>Mark. 5.17. is not Chriſts.</p>
+               <p>The Hypocrite is not his.
+<note place="margin">Hypocrites are not Chriſts.</note> Profeſſion maketh not one to be his; nei<g ref="char:EOLhyphen"/>ther doth externall Vo<g ref="char:EOLhyphen"/>cation, nor vulgar gra<g ref="char:EOLhyphen"/>ces of the Spirit make any to be his. One may haue the ſhew &amp; forme of godlineſſe,
+<note place="margin">The forme of their hypocriſie.</note> 2. Tim. 3.5. and yet not be his, becauſe hee wants the ſauing power of it. Ma<g ref="char:EOLhyphen"/>ny haue a <hi>name that they are aliue, but in truth they are dead,</hi> Reu. 3.1. Fruit<g ref="char:EOLhyphen"/>leſſe trees, ſhadowing onely with leaues: who haue the <hi>light</hi> of God, but not the <hi>life</hi> of God.
+<pb n="13" facs="tcp:16038:11"/>A dead faith, without workes: ſorrowing for ſinne, but not ſorrow<g ref="char:EOLhyphen"/>ing to repe<g ref="char:cmbAbbrStroke">̄</g>tance: mour<g ref="char:EOLhyphen"/>ning without amend<g ref="char:EOLhyphen"/>ing. Their loue of God is but general and mer<g ref="char:EOLhyphen"/>cenary: a zeale without knowledge: a ſeruile feare: reſtraining ſin, but not crucifying it: a taſte of the heauenly gift, Heb. 6.4. friuolous and ſuperficiall moti<g ref="char:EOLhyphen"/>ons: fantaſticall and fleeting comforts and ioyes. Theſe things make not one to bee Chriſts.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> Let vs there<g ref="char:EOLhyphen"/>fore ſearch our owne hearts; let vs examine
+<pb n="14" facs="tcp:16038:12"/>our ſelues, and prooue our ſelues whether wee haue faith or not: let vs know our ſelues, if Chriſt be in vs, and wee his, except we be repro<g ref="char:EOLhyphen"/>bates, 2. Cor. 13.5. that if as yet we be not truly Chriſts, wee may ſtudy by all meanes (in this acceptable time) to be<g ref="char:EOLhyphen"/>come his.</p>
+            </div>
+            <div n="4" type="section">
+               <head>4. <hi>Who are Christs?</hi>
+               </head>
+               <p>THe Apoſtle poſi<g ref="char:EOLhyphen"/>tiuely ſets downe,
+<note place="margin">Some are Chriſts by Election onely.</note> that they who are <hi>Chriſts, haue crucified the fleſh.</hi> Wee muſt there<g ref="char:EOLhyphen"/>fore
+<pb n="15" facs="tcp:16038:12"/>know who are Chriſts. Some are Chriſts onely in Gods preſcience and ſecret Decree, and counſell: whereof ſome (as yet) are not borne, ſome are Infants, and ſome (as yet) not called, &amp; with<g ref="char:EOLhyphen"/>out Chriſt, and with<g ref="char:EOLhyphen"/>out God in the world, Epheſ. 2.12.</p>
+               <p>Some are Chriſts im<g ref="char:EOLhyphen"/>properly,
+<note place="margin">Some are Chriſts im<g ref="char:EOLhyphen"/>properly.</note> onely in ap<g ref="char:EOLhyphen"/>pearance. The groſſe Hypocrite is Chriſts, onely in the worlds ap<g ref="char:EOLhyphen"/>pearance. The formall and temporizing Hy<g ref="char:EOLhyphen"/>pocrite is Chriſts, both in the worlds, and in
+<pb n="16" facs="tcp:16038:13"/>his owne appearance, and no further.</p>
+               <p>But ſome are Chriſts moſt properly,
+<note place="margin">Some are Chriſts pro<g ref="char:EOLhyphen"/>perly.</note> and tru<g ref="char:EOLhyphen"/>ly to be counted his: as thoſe that are vnited to him by a liuely faith, who apprehend him, and are apprehended of him, Phil. 3.12.</p>
+               <p>The Elect, who are regenerate, effectually called, iuſtified, adop<g ref="char:EOLhyphen"/>ted, ſanctified, and are to be glorified, Rom. 8.30. They are Chriſts in their owne perſwaſion, and they are his alſo by profeſſion before the world. They are his, both in appearance,
+<pb n="17" facs="tcp:16038:13"/>and in effect, both by Election and Vocation effectuall.</p>
+               <p>But as there are ma<g ref="char:EOLhyphen"/>ny called,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> and few cho<g ref="char:EOLhyphen"/>ſen, Mat. 22.14. ſo, ma<g ref="char:EOLhyphen"/>ny are not Chriſts, and very few are his: yet the Lord <hi>knoweth who are his: and let euery one that calleth on the name of the Lord, depart from iniqui<g ref="char:EOLhyphen"/>ty,</hi> 2. Tim. 2.19.</p>
+               <p>The queſtion may be moued concerning In<g ref="char:EOLhyphen"/>fants,
+<note place="margin">How In<g ref="char:EOLhyphen"/>fants are Chriſts.</note> if they be Chriſts when they die in their infancy.</p>
+               <p>The anſwere is, If an Infant bee a reprobate, in that caſe (becauſe of
+<pb n="18" facs="tcp:16038:14"/>his naturall pollution, whereof he is guilty) he is left to himſelfe, and reiected eternally. But if the Infant bee a cho<g ref="char:EOLhyphen"/>ſen child, hee may bee Chriſts both externally in the iudgement of the Church, as one within the couenant of grace: and internally alſo hee is Chriſts in a moſt ſe<g ref="char:EOLhyphen"/>cret and vnſpeakable manner; being inſert in Chriſt by the <hi>Spirit of God,</hi> 1. Cor. 12.13. The Apoſtle in this place ſpeaketh not of Infants; neither of their prerogatiue in Chriſt; but onely of thoſe that
+<pb n="19" facs="tcp:16038:14"/>are Chriſts, and that <hi>crucifie the fleſh;</hi> who are come to perfection of yeeres, and endeuour to bee perfect men in Chriſt.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> Bee not there<g ref="char:EOLhyphen"/>fore ſo curious to know who are Chriſts; as carefull, that thou thy ſelfe may be truly his; that thou maiſt find the vigour and quickening life of him in thy heart, wherby thou maiſt cru<g ref="char:EOLhyphen"/>cifie the fleſh, with the affections &amp; luſts there<g ref="char:EOLhyphen"/>of: and that thou maiſt confidently ſay with the Spouſe in the Can. 7.10 <hi>I am my Well-beloueds, &amp; his deſire is towards me.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <pb n="20" facs="tcp:16038:15"/>
+               <head>5. <hi>How are we Chriſts?</hi>
+               </head>
+               <p>SIth that all are not Chriſts, and thoſe that are his, are few. And ſith none are his by na<g ref="char:EOLhyphen"/>ture, but by grace only; it is needfull therefore to vnderſtand <hi>how wee are Chriſts.</hi>
+               </p>
+               <p>We are his in a true,
+<note place="margin">Wee are Chriſts in a ſpirituall vnion.</note> pure, and ſpirituall vni<g ref="char:EOLhyphen"/>on, by being <hi>one</hi> with him, Galat. 3.28. and build <hi>on him,</hi> Eph. 2.20. By the <hi>vnity of faith,</hi> Epheſ. 4.13. <hi>Wee abide in him,</hi> 1. Ioh. 2.27. <hi>He dwelleth in vs, and wee
+<pb n="21" facs="tcp:16038:15"/>in him,</hi> 1. Ioh. 4.13, 16.</p>
+               <p>This <hi>vnion</hi> is not lo<g ref="char:EOLhyphen"/>call,
+<note place="margin">The man<g ref="char:EOLhyphen"/>ner of this vnion.</note> neither doth di<g ref="char:EOLhyphen"/>ſtance of place impaire it: it is not viſible nor bodily: it is not ſuper<g ref="char:EOLhyphen"/>ficiall nor fantaſticall: yet it is reall and ſpiri<g ref="char:EOLhyphen"/>tuall, Ioh. 17.20.</p>
+               <p>They that are vnited to Chriſt, muſt bee firſt ſeparated from the world, Ioh. 17.6. that is, from the condemnati<g ref="char:EOLhyphen"/>on and corruption that is in the world through luſt, 2. Pet. 1.4.</p>
+               <p>This <hi>vnion</hi> is wrought by the <hi>Application and Apprehenſion of Chriſt.</hi> In Chriſts <hi>application,</hi>
+                  <pb n="22" facs="tcp:16038:16"/>the holy Spirit really exhibits &amp; offers Chriſt vnto vs,
+<note place="margin">Ioh. 17.6, 9. and 10.29.</note> and vs againe to Chriſt, and giueth either of vs to other, This is called the <hi>com<g ref="char:EOLhyphen"/>munion of the Spirit,</hi> Phi<g ref="char:EOLhyphen"/>lip. 2.1. whereby we are all baptized into one Spirit,
+<note place="margin">1. Cor. 12.13.</note> &amp; are al made to drinke into one Spirit.</p>
+               <p>In <hi>Christs apprehen<g ref="char:EOLhyphen"/>ſion,</hi> the holy Spirit likewiſe is effectuall. He moueth the heart of the beleeuer, by a moſt ſecret and vnſpeakable power, to imbrace and receiue Chriſt: like as Chriſt receiueth and apprehendeth by the
+<pb n="23" facs="tcp:16038:16"/>ſame holy Spirit the beleeuer, Phil. 3.12. and ſo is vnited to him, Ioh. 1.12. Rom. 13.14. Gal. 3.27. Epheſ. 3.20. and 1.19. Col. 2.6.</p>
+               <p>To be Chriſts there<g ref="char:EOLhyphen"/>fore is a worke ſuperna<g ref="char:EOLhyphen"/>turall, diuine, and from aboue; and who are once his, are euer his thereafter. His ſheepe ſhall neuer bee pulled out of his hands, Ioh. 10.28. and that becauſe of that omnipote<g ref="char:cmbAbbrStroke">̄</g>t Spi<g ref="char:EOLhyphen"/>rit, who linketh them together.</p>
+               <p>
+                  <note place="margin">Comfort.</note> Heereupon ariſeth that vnſpeakable com<g ref="char:EOLhyphen"/>fort to all thoſe that are
+<pb n="24" facs="tcp:16038:17"/>Chriſts: ſo farre, as it is an inſeparable vnion that cauſeth them be ſo ſure, and ſo eter<g ref="char:EOLhyphen"/>nally his, Rom. 8.38.</p>
+            </div>
+            <div n="6" type="section">
+               <head>6. <hi>Wherein are wee Chriſts?</hi>
+               </head>
+               <p>IF wee be Chriſts,
+<note place="margin">The reſem<g ref="char:EOLunhyphen"/>blance of our vnion and com<g ref="char:EOLhyphen"/>munio<g ref="char:cmbAbbrStroke">̄</g> with Chriſt.</note> hee muſt haue ſome kind<g ref="char:EOLhyphen"/>ly and neere reſpect &amp; relation to vs, and wee to him. It is needfull therefore to bee conſi<g ref="char:EOLhyphen"/>dered wherein we are Chriſts, and what is our communion with him.</p>
+               <p>There is no vnion in this world ſo neere, and
+<pb n="25" facs="tcp:16038:17"/>ſo ſtrong, as is our con<g ref="char:EOLhyphen"/>iunction with Chriſt. Similitudes are borro<g ref="char:EOLhyphen"/>wed, to reſemble and repreſent vnto vs the ſame: and yet the vni<g ref="char:EOLhyphen"/>on is ſtricter, and more neere &amp; ſure, than they can declare, and is ac<g ref="char:EOLhyphen"/>companied with a de<g ref="char:EOLhyphen"/>pending communion.</p>
+               <p>Hee is our <hi>head,</hi> and wee are the <hi>members</hi> of his body, 1. Cor. 6.15. Epheſ. 5.30. we get life and motion from him, as the members doe from the head.</p>
+               <p>We are Chriſts as a <hi>Spouſe</hi> to the <hi>husband,</hi> Cant. 4.9. Reuel. 19.7.
+<pb n="26" facs="tcp:16038:18"/>we are his <hi>Loue,</hi> Cant. 1.14. We are ſet on his heart as a <hi>Seale,</hi> and as a <hi>Signet</hi> vpon his arme, Cant. 8.6.</p>
+               <p>We are his <hi>brethren,</hi> and <hi>fellow-heires</hi> with him, Heb. 1.12. Rom. 8.17. And he is the <hi>first begotten</hi> amongſt many brethren, Rom. 8.29.</p>
+               <p>Wee are Chriſts, as the <hi>branches</hi> of that ho<g ref="char:EOLhyphen"/>ly and true <hi>Vine,</hi> Ioh. 15.1. We are engrafted in the Vine by grace. We are his, and are vp<g ref="char:EOLhyphen"/>holden by him, as the tree doth beare the branch, not the branch the tree. Wee get life
+<pb n="27" facs="tcp:16038:18"/>and ſap from this Vine, and wee muſt beare fruit, not of our ſelues, but becauſe we abide in the Vine: For <hi>without him wee can doe nothing,</hi> Ioh. 15.4, 5.</p>
+               <p>Wee are his <hi>Sheepe,</hi> and he our chiefe <hi>Shep<g ref="char:EOLhyphen"/>heard,</hi> 1. Pet. 5.4.</p>
+               <p>Wee are his liuely <hi>Stones,</hi> and he the chiefe <hi>Corner-ſtone,</hi> on whom we muſt be builded, and bee made his <hi>ſpirituall houſe,</hi> 1. Pet. 2.5, 6. Heb. 3.6.</p>
+               <p>We are his, and are as deare to him as him<g ref="char:EOLhyphen"/>ſelfe: hee loued vs, and gaue himſelfe for vs,
+<pb n="28" facs="tcp:16038:19"/>Gal. 2.20. He loued his Church, and gaue him<g ref="char:EOLhyphen"/>ſelfe for it, Epheſ. 5.25. Hee that toucheth vs, toucheth the apple of his eye. Zach. 2.8. Our troubles are his, Act. 9.4. his glory is ours, 2. Theſ. 1.19. and hee thinks himſelfe vncom<g ref="char:EOLhyphen"/>plete, if hee want vs. Who would not ſtriue now to becom Chriſts?
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> It is our greateſt digni<g ref="char:EOLhyphen"/>ty, it is our finall and full felicity to bee his. Chriſt intreats vs to be his, he calleth vpon vs: he careth not although we be <hi>blacke</hi> and <hi>bruſed,</hi> Cant. 1.5. and with ſins
+<pb n="29" facs="tcp:16038:19"/>weary and loden, Math. 12.20. and 11.28. If ſo be we come to be eaſed and waſhed by him.</p>
+               <p>Hee ſaith to euery one of vs,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> as hee ſaid to his Spouſe in Cant. 2.10. <hi>Ariſe my loue, my faire one, and come away: the winter is paſt, the raine is gone, the flowers appeare, the birds doe ſing. His delight is to bee with the ſonnes of men,</hi> Pro. 8.31. Say thou againe to Chriſt, as <hi>Dauid</hi> ſaid to the Lord, <hi>What am I, O Lord, that thou haſt brought mee to this?</hi> 2. Sam. 7.18. And with <hi>Mephiboſheth,</hi> ſay thou
+<pb n="30" facs="tcp:16038:20"/>to Chriſt, as hee ſaid to <hi>Dauid: What am I, that thou ſhouldeſt looke on me a dead dog as I am?</hi> 2. Sa. 9. Behold, Lord, thou ſhalt haue mee, aboue, beyond, and before all. For <hi>whom haue I in the heauen beſide thee?</hi> Pſal. 73.25. I ſhall count all things but <hi>dung</hi> for the <hi>vantage</hi> of Chriſt, Phil. 3.8. And he ſhall be to me both in life &amp; death my onely <hi>vantage,</hi> Phil. 1.21.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="31" facs="tcp:16038:20"/>
+               <head>7. <hi>Who maketh vs Chriſts?</hi>
+               </head>
+               <p>IF nature did make vs to be Chriſts, then all ſhould be Chriſts, and all ſhould crucifie the fleſh: and to be Chriſts ſhould bee both eaſie and common.
+<note place="margin">The cauſes of our vni<g ref="char:EOLhyphen"/>on with Christ.</note> But ſith it is a matter diuine, ſo high, and ſo holy, and proper onely for ſome; we muſt vnderſta<g ref="char:cmbAbbrStroke">̄</g>d who doe make vs Chriſts.</p>
+               <p>We are Gods work<g ref="char:EOLhyphen"/>manſhip,
+<note place="margin">The Father</note> created in <hi>Christ Ieſus vnto good workes,</hi> Epheſ. 2.10. We
+<pb n="32" facs="tcp:16038:21"/>are the children which God hath giuen to Chriſt, Heb. 2.13. And no man can come to Chriſt, except the Fa<g ref="char:EOLhyphen"/>ther draw him, Ioh. 6.44. Of God wee are in <hi>Chriſt Ieſus,</hi> 1. Cor. 1.30. And he which ſtabliſh<g ref="char:EOLhyphen"/>eth vs in Chriſt, &amp; hath anoynted vs, is God, 2. Cor. 1.21.</p>
+               <p>Chriſt gaue himſelfe for vs,
+<note place="margin">The Sonne.</note> that he might re<g ref="char:EOLhyphen"/>deeme vs from all ini<g ref="char:EOLhyphen"/>quity, and purge vs, to be a peculiar people to himſelfe, Tit. 2.14.</p>
+               <p>The <hi>Holy Spirit,</hi>
+                  <note place="margin">The Spirit.</note> 
+                  <hi>that Anoynting, as it taught you, ye ſhall abide in him,</hi>
+                  <pb n="33" facs="tcp:16038:21"/>1. Ioh. 2.27. And <hi>they ſhall be all taught of God,</hi> Ioh. 6.45. This is the communion of the <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> Phil. 2.1.</p>
+               <p>As the <hi>Trinity</hi> doth worke internally:
+<note place="margin">The Word.</note> So the VVord and Mini<g ref="char:EOLhyphen"/>ſtery worke externally. The weapons of the miniſteriall warfare do bring into captiuity e<g ref="char:EOLhyphen"/>uery thought to the o<g ref="char:EOLhyphen"/>bedience of Chriſt, 2. Cor. 10.5.
+<note place="margin">The Sacra<g ref="char:EOLhyphen"/>ments.</note> By Bap<g ref="char:EOLhyphen"/>tiſme we are all bapti<g ref="char:EOLhyphen"/>zed into Chriſt, and haue put on Chriſt, Gal. 3.27.</p>
+               <p>The Miniſtery tra<g ref="char:EOLhyphen"/>uelleth in birth as a
+<note place="margin">The Mi<g ref="char:EOLhyphen"/>niſtery</note>
+                  <pb n="34" facs="tcp:16038:22"/>woman, till Chriſt bee formed in vs. Gal. 4.19. The Miniſters and Preachers of the Word are giuen by Chriſt, for the repairing of the Saints, and edification of the body of Chriſt, Epheſ. 4.12, 13.</p>
+               <p>Wee ſee therefore how that both God and man doe concurre to make vs Chriſts.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> Man with the letter of the Word without; God and Chriſt, by the Spirit within. VVee want no calling vpon; wee lacke no labouring vpon. God calleth, and would haue all men to
+<pb n="35" facs="tcp:16038:22"/>bee ſaued, 1. Tim. 2.4. Chriſt ſtands at the doore of our hearts and knockes, to come in, Reuel. 3.20. Shall wee ſtill reſiſt the holy Spi<g ref="char:EOLhyphen"/>rit? Shall wee ſtill pull backe the ſhoulder and harden our harts? Shall wee ſtill ſtop our eares, as the Serpent doth at the Enchanter? Shall wee both depriue our ſelues of Chriſt, and bring vpon our ſelues ſwift iudgement, and e<g ref="char:EOLhyphen"/>uerlaſting wrath? Far be that from vs all: yea rather, let vs lift vp the ports of our ſoule, and let the King of glory
+<pb n="36" facs="tcp:16038:23"/>enter in. Let vs re<g ref="char:EOLhyphen"/>nounce our ſelues, that we may be his: let vs be led (by the VVord, and by the Spirit) captiue to his obedience: let vs be heartily content that he betroth vs; and moſt heartily ſuffer our ſelues to bee cut off from the <hi>wild Oliue,</hi> that we may bee ingraffed into the <hi>true Vine.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <head>8. <hi>How farre are we Chriſts?</hi>
+               </head>
+               <p>THe body is for the Lord,
+<note place="margin">
+                     <hi>What part of vs is Chriſts,</hi> viz. <hi>our Body.</hi>
+                  </note> 1. Cor. 6.13. It is a member of his
+<pb n="37" facs="tcp:16038:23"/>body, <hi>Ibid.</hi> It is his in the graue; and is neuer deſtitute of his Spirit, Rom. 8.11. It waiteth for the <hi>Adoption,</hi> euen the redemption of the body, Rom. 8.23. Hee ſhall <hi>change it</hi> (though neuer ſo vile) that it may bee faſhioned like vnto <hi>his glorious body,</hi> Phil. 3.21.</p>
+               <p>The ſoule is Chriſts:
+<note place="margin">Our Soule.</note> it hath ſaluatio<g ref="char:cmbAbbrStroke">̄</g> of him, 1. Pet. 1.9. Hee is the <hi>Shepheard</hi> and <hi>Biſhop</hi> of our ſoules, 1. Pet. 2.25.</p>
+               <p>Both body and ſoule are his; hee ſuffered for both; hee ranſomed both; hee ſanctifieth
+<pb n="38" facs="tcp:16038:24"/>both, 1. Theſ. 5.23. and ſhall glorifie both.</p>
+               <p>Our ſinnes and debts are his,
+<note place="margin">Our ſinnes.</note> by imputation; as hee is a ſufferer and ſatisfier for them. Hee did <hi>beare our ſinnes in his body on the tree,</hi> 1. Pet. 2.24. <hi>He ſuffred for our ſins, the iuſt, for the vniust,</hi> 1. Pet. 3.18. <hi>Hee is the Lambe of God that taketh away the ſinnes of the world,</hi> Ioh. 1.29. <hi>The Lord laid vpon him the iniquities of vs all,</hi> Iſa. 59.6. <hi>He made him ſinne for vs,</hi> 2. Cor. 5.21.</p>
+               <p>Our good workes are Chriſts,
+<note place="margin">Our good workes.</note> as he is the firſt author and worker
+<pb n="39" facs="tcp:16038:24"/>of them in our hearts. For <hi>Without him we can doe nothing,</hi> Ioh. 15.5. VVe <hi>are Gods workman<g ref="char:EOLhyphen"/>ſhip, created in Ieſus Chriſt, vnto good workes,</hi> Epheſ. 2.10.</p>
+               <p>Hee is alſo an accep<g ref="char:EOLhyphen"/>ter of our good workes, as if they were all done to him. A cup of cold water, giuen to one of his little ones, hee ac<g ref="char:EOLhyphen"/>counts the ſame as gi<g ref="char:EOLhyphen"/>uen to him, Math. 10.42. Hee claimes the ſer<g ref="char:EOLhyphen"/>uice of all our actions, as done to himſelfe, E<g ref="char:EOLhyphen"/>pheſ. 6.5, 6. And what<g ref="char:EOLhyphen"/>ſoeuer wee doe, wee muſt doe it heartily, as
+<pb n="40" facs="tcp:16038:25"/>vnto the Lord, Col. 3.23.</p>
+               <p>Our ſufferings are Chriſts,
+<note place="margin">Our ſuffer<g ref="char:EOLhyphen"/>ings.</note> in that hee is a <hi>Sympathizer</hi> with vs, Act. 9.4. He that touch<g ref="char:EOLhyphen"/>eth vs, toucheth the Ap<g ref="char:EOLhyphen"/>ple of his eye, Zach. 2.8.</p>
+               <p>Hee is touched with the feeling of our infir<g ref="char:EOLhyphen"/>mities,
+<note place="margin">Our infir<g ref="char:EOLhyphen"/>mities.</note> Hebr. 4.15. So all that wee are, is his; and all that wee haue, is his. Of all our euils hee doth eaſe, and empty vs: with all his good he doth fill vs. He is ours, as our <hi>all,</hi> in <hi>all things:</hi> ſo euery one of vs is his <hi>all,</hi> in all reſpects.
+<pb n="41" facs="tcp:16038:25"/>But in what degree wee are Chriſts,
+<note place="margin">In what degree we are Chriſts.</note> in the de<g ref="char:EOLhyphen"/>gree of Election: or in what degree wee are Chriſts, in Gods preſent acceptation and eſtima<g ref="char:EOLhyphen"/>tion: or in what degree we are to be Chriſts, in the life to come, it is very hard to diſcuſſe; and more curious then profitable to enquire. It may very well con<g ref="char:EOLhyphen"/>tent, euen the beſt of vs, to bee a dore-keeper in the houſe of God, Pſal. 84.10.</p>
+               <p>Yet we ſhould know in what degree wee are Chriſts,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> in our appre<g ref="char:EOLhyphen"/>henſion of him by faith:
+<pb n="42" facs="tcp:16038:26"/>For according as is the meaſure of our faith, more or leſſe; a weake faith, or a ſtrong faith: ſo, in that ſame meaſure wee finde and feele our ſelues to bee Chriſts: and according to that ſame degree of our faith and feeling, wee doe crucifie the fleſh more or leſſe. It is our part, more to know the mea<g ref="char:EOLhyphen"/>ſure and degrees of our faith, than to know in what meaſure and de<g ref="char:EOLhyphen"/>gree we are his. It may ſuffice vs very well, that now we are the ſonnes and daughters of God; although as yet it bee
+<pb n="43" facs="tcp:16038:26"/>not manifeſt what wee ſhall be, 1. Ioh. 3.2.</p>
+               <p>Let vs ſtriue to grow in grace and faith: let vs ſtirre vp our gifts: and forget that which is behind; and endeuor our felues vnto that which is before vs, and follow hard toward the mache, for the prize of the high calling of God in Chriſt Ieſus, Phil. 3.13, 14. vntill wee all meere together vnto a perfect man; and vnto the meaſure of the age of the fulneſſe of Chriſt, Epheſ. 4.13. And that we may daily encreaſe with the <hi>encreaſing of
+<pb n="44" facs="tcp:16038:27"/>God,</hi> Coloſ. 2.19.</p>
+            </div>
+            <div n="9" type="section">
+               <head>9. Whereto are wee Chriſts?</head>
+               <p>THis ſo great a <hi>Dig<g ref="char:EOLhyphen"/>nity</hi> to bee Chriſts,
+<note place="margin">The endes wherefore we muſt be Chriſts.</note> with ſo great a taske following thereupon, to <hi>crucifie</hi> the fleſh; muſt haue ſome ſpeci<g ref="char:EOLhyphen"/>all ends and purpoſes, vnto the which, and for the which, we are made Chriſts. And what bee thoſe?</p>
+               <p>That wee may bee Gods, 1. Cor. 3.22, 23. and be made <hi>partakers of the diuine nature,</hi> 2. Pet. 1</p>
+               <pb n="45" facs="tcp:16038:27"/>
+               <p> That through Chriſt, wee may haue an en<g ref="char:EOLhyphen"/>trance to the Father, by one Spirit, Epheſ. 2.18.</p>
+               <p>That wee may be no more ſtrangers and for<g ref="char:EOLhyphen"/>reiners, but Citizens with the Saints and houſhold of God, Eph. 2.18, 19.</p>
+               <p>That wee may ob<g ref="char:EOLhyphen"/>taine this prerogatiue, to be the ſonnes of God, Ioh 1.12. Gal. 3.27. and 4.6, 7. The heires of God, and annexed heires with Chriſt, Ro<g ref="char:cmbAbbrStroke">̄</g>. 8.17. and be made vn<g ref="char:EOLhyphen"/>to God Kings and Prieſts, Reuel. 1.6.</p>
+               <pb n="46" facs="tcp:16038:28"/>
+               <p> That wee may get in him rede<g ref="char:cmbAbbrStroke">̄</g>ption through his blood, Coloſ. 1.14. euen reconciliation by the blood of that his Croſſe, Col. 1.20.</p>
+               <p>That we may eſchew condemnation, Rom. 8.1. and bee deliuered fro<g ref="char:cmbAbbrStroke">̄</g> the power of darkneſſe, Coloſ. 1.13. and that principalities may bee ſpoyled, Col. 2.15.</p>
+               <p>That we may obtaine mercy and peace, Gal. 5.16. and the remiſſion of our ſinnes, Col. 1.14. and that the obligation of our debts may bee rent, Col. 2.14. 1. Cor. 1.31.</p>
+               <pb n="47" facs="tcp:16038:28"/>
+               <p> That we may become new creatures, Gal. 6.15 2. Cor. 5.17.</p>
+               <p>That in him we may be complete, circumci<g ref="char:EOLhyphen"/>ſed with his circumci<g ref="char:EOLhyphen"/>ſion; buried with him, quickened and raiſed, Col. 2.10, 11, 12, 13.</p>
+               <p>That wee may walke after the <hi>Spirit,</hi> and not after the fleſh, Rom. 8.</p>
+               <p>That all other things in this world may bee ours, that is, for our be<g ref="char:EOLhyphen"/>nefit, 1. Cor. 3.22. Rom. 8.28.</p>
+               <p>That wee may liue and die to the Lord, Rom. 13.8.</p>
+               <p>That whether wee
+<pb n="48" facs="tcp:16038:29"/>wake or ſleepe, we may liue together with him, 1. Theſ. 5.10.</p>
+               <p>That we may get par<g ref="char:EOLhyphen"/>ticipation of the Saints inheritance, and may bee tranſlated vnto his owne glorious King<g ref="char:EOLhyphen"/>dome, Col. 1.12, 13.</p>
+               <p>To conclude this poynt, the whole world doe ſpend their life, and whole actions, vpon purpoſes &amp; ends where<g ref="char:EOLhyphen"/>at they continually aime. Some intend their fame, ſome their gaine, and ſome their delights. But what are all theſe? But ſhadowes of farre much more,
+<pb n="49" facs="tcp:16038:29"/>euen of ſpirituall and eternall bleſſings in hea<g ref="char:EOLhyphen"/>uenly things, &amp; places, that thoſe get, that are Chriſts.</p>
+               <p>What can thy heart deſire or need,
+<note place="margin">Comfort.</note> but if thou bee Chriſts, thou ſhalt haue it, euen that ſame very thing thou craueſt, or elſe a farre better thing? For if God ſpared not his owne Sonne, but gaue him for vs to death; how ſhall hee not with him giue vs all things alſo? Rom. 8.32.</p>
+            </div>
+            <div n="10" type="section">
+               <pb n="50" facs="tcp:16038:30"/>
+               <head>10. <hi>Wee are Chriſts, and no others.</hi>
+               </head>
+               <p>BVt fith wee muſt be Chriſts,
+<note place="margin">Wee are Chriſts, and the whole Trinities.</note> wee ſhould be his alone, and no o<g ref="char:EOLhyphen"/>thers, Math. 10.37, 38, 39.</p>
+               <p>To be Chriſts, doth not hinder vs to bee his Fathers, but furthers vs: neither doth it ſtay vs from being the holy Spirits. For whoſoeuer are Chriſts, they doe appertaine to the whole Trinity. By Chriſt wee are the temple of God, and of the Spirit,
+<pb n="51" facs="tcp:16038:30"/>1. Cor. 3.16. and 6.19.</p>
+               <p>If we be Chriſts,
+<note place="margin">We are not our owne.</note> wee are no more our owne, for we are bought with a price, 1. Cor. 6.19, 20. Wee muſt forſake our ſelues, &amp; follow Chriſt, Math. 16.25. We muſt no longer imploy our body and ſoule to the vſe of ſenſuality and va<g ref="char:EOLhyphen"/>nity, or of fond faſhions of the world; neither to walke in our owne wayes.</p>
+               <p>Wee may belong to no others any more,
+<note place="margin">We belong to no other, vnleſſe they be ſubordi<g ref="char:EOLhyphen"/>nate to Chriſt.</note> vn<g ref="char:EOLhyphen"/>leſſe they bee ſubordi<g ref="char:EOLhyphen"/>nate to Chriſt. Yea ra<g ref="char:EOLhyphen"/>ther, ere wee bee not Chriſts, wee ought to
+<pb n="52" facs="tcp:16038:31"/>leaue father, mother, ſonnes and daughters, and the whole world, Math. 10.37. Wee may belong to father, mo<g ref="char:EOLhyphen"/>ther, brethren, or chil<g ref="char:EOLhyphen"/>dren, ſo far as they hin<g ref="char:EOLhyphen"/>der vs not from Chriſt: but if they would pre<g ref="char:EOLhyphen"/>ſume to draw vs from Chriſt, in that caſe wee ſhould forſake them, al<g ref="char:EOLhyphen"/>though they were neuer ſo deare to vs.</p>
+               <p>We may belong to none that are meerly contrary,
+<note place="margin">And not contrary to Chriſt.</note> or oppoſite to Chriſt.</p>
+               <p>We may be the ſub<g ref="char:EOLhyphen"/>iects of vngodly and vn<g ref="char:EOLhyphen"/>chriſtian tyrants, and
+<pb n="53" facs="tcp:16038:31"/>the ſonnes and daugh<g ref="char:EOLhyphen"/>ters of vngodly parents, and the feruants of wic<g ref="char:EOLhyphen"/>ked maſters; wee are bound to ſerue them, and obey them in all things lawfull, and in God, 1. Pet. 2.18. Eph. 6.5, 6, 7. Theſe are not meerly oppoſite to Chriſt; and the things wherein wee ſhould o<g ref="char:EOLhyphen"/>bey them, doe ſtand with the will of Chriſt.</p>
+               <p>Wee ſhould not be<g ref="char:EOLhyphen"/>long to ſinne,
+<note place="margin">Wee muſt not be ſins, nor Satans, nor the worlds.</note> neither to Satan; becauſe theſe are meerely oppoſite to Chriſt. If we be Chriſts, wee muſt not let ſinne raigne in our mortall
+<pb n="54" facs="tcp:16038:32"/>bodies, that wee ſhould obey it in the luſts ther<g ref="char:EOLhyphen"/>of Neither ſhould wee giue our members as weapons of vnrighte<g ref="char:EOLhyphen"/>ouſnes vnto ſinne, Rom. 6.12. We may not walk according to the courſe of the world, and after the prince that ruleth in the aire, Epheſ. 2.2. We muſt not make the diuell our father, in do<g ref="char:EOLhyphen"/>ing his luſts, Ioh. 8.44. For all theſe ſin within vs,
+<note place="margin">Becauſe they are di<g ref="char:EOLhyphen"/>rectly oppo<g ref="char:EOLhyphen"/>ſite to Christ.</note> which is our corrup<g ref="char:EOLhyphen"/>tion; and ſinne with<g ref="char:EOLhyphen"/>out vs, which is the wic<g ref="char:EOLhyphen"/>ked courſe of the world; and Satan, with all his circumuentions &amp; me<g ref="char:EOLhyphen"/>thodicke
+<pb n="55" facs="tcp:16038:32"/>ſtratagems, Epheſ. 6.11. wherewith he goeth about to ſnare vs, are meerly &amp; direct<g ref="char:EOLhyphen"/>ly oppoſite to Chriſt: ſo that none can both ſerue Chriſt, and Belial, 2. Cor. 6.15.</p>
+               <p>Wherefore it is our ſpeciall dignity and ſe<g ref="char:EOLhyphen"/>licity to be Chriſts tru<g ref="char:EOLhyphen"/>ly;
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> and his aboue all o<g ref="char:EOLhyphen"/>thers: preferre none to him; adequate none with him; ioyne none to him, that is contrary to him: whatſoeuer e<g ref="char:EOLhyphen"/>ſtate thou art in, ſtudy to bee Chriſts. If thy eſtate bee high in the world, to bee Chriſts,
+<pb n="56" facs="tcp:16038:33"/>will ſanctifie and bleſſe that eſtate to thee. If thy eſtate bee low and abiect, to bee Chriſts, honours thy poore e<g ref="char:EOLhyphen"/>ſtate, and makes thee ioyfully and heartily content therewith.</p>
+               <p>Preaſe not to bee Chriſts, &amp; Satans too: ſerue not two oppoſite maſters, Math. 6.24. be not double-harted, Iam. 4.8. Carry not two fa<g ref="char:EOLhyphen"/>ces; but be Chriſts ſin<g ref="char:EOLhyphen"/>cerely, throughly, and conſtantly.</p>
+            </div>
+            <div n="11" type="section">
+               <pb n="57" facs="tcp:16038:33"/>
+               <head>11. <hi>When, and where are we Chriſts?</hi>
+               </head>
+               <p>WEE were once not Chriſts, when wee were vnwiſe, diſobedient, deceiued, ſeruing luſts, &amp;c. Tit. 3.3. when wee were dead in treſpaſſes and ſinnes, Epheſ. 2.1. Coloſ. 2.13. Gentiles in the fleſh; once farre off, without Chriſt, Epheſ. 2.11.</p>
+               <p>We are then Chriſts euidently,
+<note place="margin">Wee are Chriſts whe<g ref="char:cmbAbbrStroke">̄</g> we are cal<g ref="char:EOLhyphen"/>led.</note> when we are effectually called. Some hee taketh to himſelfe ſooner, ſome later: hee
+<pb n="58" facs="tcp:16038:34"/>hath his owne time in his owne hand, in ma<g ref="char:EOLhyphen"/>king vs to become his own, when, and where, and how it pleaſeth him.</p>
+               <p>When we are made Chriſts,
+<note place="margin">Wee are Chriſts in life, and after death.</note> then we are his in life, in death, and af<g ref="char:EOLhyphen"/>ter death, Rom. 13.8.</p>
+               <p>Our bodies ceaſe not to be his when wee are dead: he eſteemeth the<g ref="char:cmbAbbrStroke">̄</g> his own, although they bee reſolued into duſt and aſhes, Rom. 8.11. Our ſoules are his when wee are dead; which maketh his Saints de<g ref="char:EOLhyphen"/>ſire to be diſſolued and to be with Chriſt, Phil.
+<pb n="59" facs="tcp:16038:34"/>1.23. and in their death to co<g ref="char:cmbAbbrStroke">̄</g>mend their ſpirit into his ha<g ref="char:cmbAbbrStroke">̄</g>ds, Act. 7.59.</p>
+               <p>Wee are Chriſts now, but as yet it doth not appeare what wee ſhall be, 1. Ioh. 3.2. Here in this life we are his by grace; hereafter we ſhal bee his in glory. Heere we are Chriſts, and wee muſt crucifie the fleſh: hereafter wee ſhall bee his, and he ſhall glorifie our fleſh.</p>
+               <p>Let vs not therefore bee any longer Satans vaſſals, ſinnes ſlaues,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> nor the worlds drudges. But into whatſoeuer eſtate God hath caſt thy lot,
+<pb n="60" facs="tcp:16038:35"/>bee thou Chriſts aboue all; giue him thy heart aboue all; that thou maiſt haue this prero<g ref="char:EOLhyphen"/>gatiue, to be his aboue all. Delay no longer to become his: come out of Sodome: looke not backe with <hi>Lots</hi> wife: ſtriue to be his quickly: put not off till death; death giueth no war<g ref="char:EOLhyphen"/>ning. Become his be<g ref="char:EOLhyphen"/>fore thou die, and thou ſhalt be his eternally.</p>
+            </div>
+            <div n="12" type="section">
+               <head>12. <hi>How is Christ ours?</hi>
+               </head>
+               <p>BVt ſith that wee are Chriſts by a cer<g ref="char:EOLhyphen"/>taine
+<pb n="61" facs="tcp:16038:35"/>relation, and by a mutuall vnion, as is ſpe<g ref="char:EOLhyphen"/>cified before: wee can<g ref="char:EOLhyphen"/>not be his, vnleſſe hee bee as truly ours. It would bee therefore knowne how he is ours.</p>
+               <p>
+                  <hi>Chriſt</hi> is ours,
+<note place="margin">How Chriſt is ours.</note> as the Spouſe doth make her claime, ſaying, <hi>I am my Well-beloueds, and my Well-beloued is mine,</hi> Cant. 6.2.</p>
+               <p>Hee is ours, and our onely and chiefe <hi>van<g ref="char:EOLhyphen"/>tage,</hi> both in life and in death, Phil. 1.21.</p>
+               <p>He is our <hi>Head,</hi> that quickeneth all the bo<g ref="char:EOLhyphen"/>dy, Epheſ. 5.30.</p>
+               <p>Hee is our <hi>Husband,</hi>
+                  <pb n="62" facs="tcp:16038:36"/>moſt louing to his Spouſe, Reu. 19.7.</p>
+               <p>Hee is our <hi>Corner<g ref="char:EOLhyphen"/>ſtone,</hi> on whom wee are all builded, 1. Pet. 2.6.</p>
+               <p>He is that <hi>true Vine,</hi> into the which wee are ingraft to bring foorth fruit, Ioh. 15.1.</p>
+               <p>Hee is our <hi>Food,</hi> to nouriſh our hungry ſoules. His fleſh is meat indeed, and his blood is drink indeed, Ioh. 6.55.</p>
+               <p>He is our <hi>garment,</hi> to bee put on to couer vs, that our filthy naked<g ref="char:EOLhyphen"/>neſſe doe not appeare, Gal. 3.2. Rom. 1.3, 14. Reuel. 3.</p>
+               <p>He is our <hi>eldeſt Bro<g ref="char:EOLhyphen"/>ther,</hi>
+                  <pb n="63" facs="tcp:16038:36"/>yea, the firſt begot<g ref="char:EOLhyphen"/>ten amongſt many bre<g ref="char:EOLhyphen"/>thren, Rom. 8.29.</p>
+               <p>He is our <hi>chiefe Shep<g ref="char:EOLhyphen"/>heard,</hi> to rule and feede his wandring flocke, Ioh. 11.14. Heb. 13.20. 1. Pet. 2.25. and 5.4.</p>
+               <p>His <hi>God-head</hi> is ours,
+<note place="margin">All that Chriſt is, is ours.</note> that wee may be parta<g ref="char:EOLhyphen"/>kers of the Diuine na<g ref="char:EOLhyphen"/>ture, 2. Pet. 1.4.</p>
+               <p>His <hi>Humanity</hi> is ours, that he might be like vs, in all things except ſin, Heb. 2.17. and 4.15.</p>
+               <p>His <hi>death</hi> is ours, to ranſome vs, 1. Tim. 2.6.</p>
+               <p>His <hi>merits</hi> are ours, to iuſtifie vs, 1. Cor. 1.30. Rom. 3.24. and 5.9.</p>
+               <pb n="64" facs="tcp:16038:37"/>
+               <p> His <hi>life</hi> is ours, to quicken vs, Coloſ. 3.3, 4.</p>
+               <p>His <hi>Spirit</hi> is ours, to comfort vs, Ioh. 14.16. and 15.26.</p>
+               <p>His <hi>Kingdome</hi> is ours, to glorifie vs, Ioh. 17.22.</p>
+               <p>Hee is our <hi>Sauiour,</hi> 1. Tim. 4.10. our <hi>Me<g ref="char:EOLhyphen"/>diatour,</hi> 1. Tim. 2.5. our <hi>Aduocate,</hi> 1. Ioh. 2.1. our <hi>Redeemer,</hi> Col. 1.14. That we all may be <hi>one,</hi> as the Father is in him, and hee in the Father, that wee may bee all <hi>one</hi> in them; <hi>Chriſt</hi> in vs, and the <hi>Father</hi> in <hi>Christ,</hi> that we may bee made
+<pb n="65" facs="tcp:16038:37"/>perfect in <hi>one,</hi> that wee may bee there euen where hee is; that wee may behold that his glory, Ioh. 17.21, 23, 24.</p>
+               <p>Hee is our <hi>All in all things,</hi> Epheſ. 1.23. and 4.10. Col. 3.11.</p>
+               <p>He is all theſe things to vs, becauſe his Fa<g ref="char:EOLhyphen"/>ther hath giuen him to vs, Rom. 8.32. And hee is ours alſo out of his owne ſuper-aboundant kindneſſe, and vnſpeak<g ref="char:EOLhyphen"/>able loue, Tit. 2.14.</p>
+               <p>He had no need that wee ſhould be his; wee had great need that hee ſhould be ours. Wee
+<pb n="66" facs="tcp:16038:38"/>are his by debt; hee is ours by gift, Ioh. 4.10. He makes vs his; we are not able to make him ours.</p>
+               <p>If Chriſt bee thine,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> ſay with thy ſelfe, I haue the greateſt gift, the gift of all gifts; and a greater gift God cannot giue: for the which cauſe I ſhall bee his againe, and none but Chriſt ſhall haue me.</p>
+            </div>
+            <div n="13" type="section">
+               <head>13. <hi>To know that we are Chriſts, and that he is ours.</hi>
+               </head>
+               <p>TO bee Chriſts, and Chriſt to be thine,
+<pb n="67" facs="tcp:16038:38"/>thou maiſt thinke the comfort of all comforts: and that it would not onely giue thee ſound peace and contentme<g ref="char:cmbAbbrStroke">̄</g>t of heart; but alſo moue thee very much to <hi>cruci<g ref="char:EOLhyphen"/>fie</hi> the fleſh: if ſo be thou wert perſwaded of the ſame, and haue the cer<g ref="char:EOLhyphen"/>tainty of it in thy heart. How ſhall it therefore bee knowne certainly that one is Chriſts?</p>
+               <p>There is no doubt but the Lord knoweth who are his, 2. Timoth. 2.19. Rom. 8.</p>
+               <p>There is alſo no doubt but one may know his neighbor to be Chriſts,
+<pb n="68" facs="tcp:16038:39"/>by a charitable conſtru<g ref="char:EOLhyphen"/>ction, beholding his good workes.</p>
+               <p>And moſt neceſſary it is, that we all prooue our ſelues, if Chriſt bee in vs, except wee be re<g ref="char:EOLhyphen"/>probates, 2. Cor. 13.5.</p>
+               <p>But how ſhall one know within himſelfe if hee bee Chriſts? It is knowne by the perſwa<g ref="char:EOLhyphen"/>ſion of faith, and by the effects and fruits therof. They that are Chriſts,
+<note place="margin">Teſtimonies to know that we are Chriſts.</note> haue their owne war<g ref="char:EOLhyphen"/>rant within them.</p>
+               <p>As Chriſt ſet a marke on the fore-heads of the mourners for ſinne, E<g ref="char:EOLhyphen"/>zech. 9.4. So God hath
+<pb n="69" facs="tcp:16038:39"/>ſealed thoſe that are Chriſts, and giuen the<g ref="char:cmbAbbrStroke">̄</g> the <hi>earneſt of the Spirit</hi> in their hearts, 2. Cor. 1.22.</p>
+               <p>That as the ſeruants of God are ſaid to bee marked in the fore<g ref="char:EOLhyphen"/>head, with the ſigne of the liuing God, Reuel. 7.2. So in Chriſt they are ſealed with the holy Spirit of promiſe; which is the earneſt of their in<g ref="char:EOLhyphen"/>heritance vnto the day of Redemption, Epheſ. 1.13, 14. and 4.30.</p>
+               <p>They haue receiued a <hi>new name that no man knoweth, but they who haue receiued it,</hi> Reu. 3.12</p>
+               <pb n="70" facs="tcp:16038:40"/>
+               <p> The Spirit of God gi<g ref="char:EOLhyphen"/>ueth them this certifi<g ref="char:EOLhyphen"/>cate,
+<note place="margin">The Spirit.</note> that they are both Chriſts, and the ſonnes of God, Rom. 8.16. And if any man haue not the <hi>Spirit of Chriſt,</hi> the ſame is not his, Rom. 8.9. Hereby wee know that we dwell in him, and he in vs, becauſe hee hath giuen vs of his Spirit, 1. Ioh 4.13.</p>
+               <p>The fruits of the Spi<g ref="char:EOLhyphen"/>rit are alſo certificates to vs y<hi rend="sup">t</hi> wee are Chriſts,
+<note place="margin">Fruits of the Spirit.</note> if wee haue the ſpirit of prayer &amp; deprecation, 2. Tim. 2.19. If the ſame mind be in vs, that was in Chriſt Ieſus: to wit,
+<pb n="71" facs="tcp:16038:40"/>that ſame mind of mo<g ref="char:EOLhyphen"/>deſty, humility, pati<g ref="char:EOLhyphen"/>ence, and of other Chri<g ref="char:EOLhyphen"/>ſtian vertues, Phil. 2.5. whereby we doe walke in the Spirit, Rom. 8.1.</p>
+               <p>If wee depart from iniquity, 2. Tim. 2.19. and doe crucifie the fleſh. If thou haue theſe fruits in any true mea<g ref="char:EOLhyphen"/>ſure, and doe therein continue and grow; thou maiſt bee perſwa<g ref="char:EOLhyphen"/>ded that thou art his. Of this perſwaſion that thou art Chriſts, thou maiſt make great vſe. Hereby thou maiſt bee daily ſtirred and prouo<g ref="char:EOLhyphen"/>ked to thankfulneſſe of
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note>
+                  <pb n="72" facs="tcp:16038:41"/>hart, to crucifie the fleſh and mortifie ſin at the root. Thou maiſt alſo reap matter of vnſpeak<g ref="char:EOLhyphen"/>able comfort and ioy, and reioyce in the Lord alway, Phil. 4.4. Thou maiſt ſay, Who ſhall condemne me? Chriſt, whoſe I am, is dead for me; or rather, riſen a<g ref="char:EOLhyphen"/>gaine for me; who is at the right hand of God, and maketh requeſt for me. Who ſhall ſeparate mee from the loue of Chriſt? No creature ſhall bee able to ſepa<g ref="char:EOLhyphen"/>rate mee from the loue of God, which is in <hi>Christ Ieſus our Lord,</hi>
+                  <pb n="73" facs="tcp:16038:41"/>Rom. 8.34, 35, 39.</p>
+            </div>
+            <div n="14" type="section">
+               <head>14. <hi>The eſtate of thoſe that are not Chriſts.</hi>
+               </head>
+               <p>AS the godly know,
+<note place="margin">They that are not Chriſts, are miſerable.</note> that they the<g ref="char:cmbAbbrStroke">̄</g>ſelues are of God; ſo they vn<g ref="char:EOLhyphen"/>derſtand likewiſe, that the reſt of the whole world lieth in wicked<g ref="char:EOLhyphen"/>neſſe, 1. Ioh. 5.19. be<g ref="char:EOLhyphen"/>cauſe they are not Chriſts, they are dead in ſinnes; the children of diſobedience: the diuell poſſeſſeth and ru<g ref="char:EOLhyphen"/>leth them: the worlds faſhions &amp; courſe doth guide them: and as they
+<pb n="74" facs="tcp:16038:42"/>neuer once thinke of the crucifying of the fleſh: ſo they euer fulfill the wil of the fleſh, Eph. 2.1.</p>
+               <p>They are ſtrangers from the couenant of grace; they haue no hope, and are without God in the world, Eph. 2.12. They are by na<g ref="char:EOLhyphen"/>ture the children of wrath.</p>
+               <p>And when the Lord Ieſus ſhall ſhew him<g ref="char:EOLhyphen"/>ſelfe from the heauens with his mighty An<g ref="char:EOLhyphen"/>gels,
+<note place="margin">A Threat<g ref="char:EOLhyphen"/>ning.</note> in flaming fire, he ſhall render vengeance vnto them, 2. Theſ. 1.7, 8. Pſal. 110.</p>
+            </div>
+            <div n="15" type="section">
+               <pb n="75" facs="tcp:16038:42"/>
+               <head>15. <hi>The happy eſtate of them that are Chriſts.</hi>
+               </head>
+               <p>IF thou bee Chriſts,
+<note place="margin">Excellency.</note> thou art for <hi>excellency</hi> and <hi>dignity</hi> aboue all o<g ref="char:EOLhyphen"/>thers in the world: <hi>like a Lilly among the thornes,</hi> Cant. 2.1. Pſal. 16.3. He hath made thee vnto God one of his <hi>Kings</hi> and <hi>Prieſts,</hi> Reuel. 1.6.</p>
+               <p>Thou art very come<g ref="char:EOLhyphen"/>ly in his ſight,
+<note place="margin">Comelines.</note> as one of the <hi>faireſt among women,</hi> Cant. 1.8. made beauti<g ref="char:EOLhyphen"/>full by his merits and ſpirit, <hi>without ſpot or wrinkle,</hi> Eph. 5.27. And
+<pb n="76" facs="tcp:16038:43"/>
+                  <hi>with the ioy of the Bride<g ref="char:EOLhyphen"/>groome toward the Bride, ſhall thy God reioyce ouer thee,</hi> Iſa. 62.5. All other beauty ſhall fade, but thine ſhal encreaſe with the <hi>encreaſing of God,</hi> Col. 2.19. And daily ſhalt thou <hi>looke foorth as the morning, faire as the Moone, pure as the Sun,</hi> Cant. 6.9.</p>
+               <p>The ſauour of the garments of thy con<g ref="char:EOLhyphen"/>uerſation is moſt deli<g ref="char:EOLhyphen"/>cate,
+<note place="margin">Acceptable conuerſa<g ref="char:EOLhyphen"/>tion.</note> as the <hi>Sauour of Le<g ref="char:EOLhyphen"/>banon,</hi> Cant. 4.11. And all thy walkings are ac<g ref="char:EOLhyphen"/>ceptable before God: <hi>Thou art in his eyes, as one that findes peace,</hi> Ca<g ref="char:cmbAbbrStroke">̄</g>. 8.10</p>
+               <pb n="77" facs="tcp:16038:43"/>
+               <p> Thou art as <hi>a Garden incloſed,</hi>
+                  <note place="margin">Protection.</note> 
+                  <hi>as a ſpring ſhut vp, and a fountaine ſealed vp,</hi> Cant. 4.12.</p>
+               <p>He ſhall protect thee from outward iniuries, and preſerue thee from ſecret corruptions. His loue is ſpread into thy heart, which is like <hi>a banner ouer thee,</hi> Cant. 2.4. to draw thee, to di<g ref="char:EOLhyphen"/>rect thee, and protect thee.</p>
+               <p>And becauſe thou art dearly beloued;
+<note place="margin">Comforts.</note> and art as <hi>a ſeale on his heart, and as a Signet on his arme,</hi> Cant. 8.6. in all thy feares, troubles and ter<g ref="char:EOLhyphen"/>rours, thou ſhalt <hi>delight
+<pb n="78" facs="tcp:16038:44"/>vnder the ſhadow of his preſence.</hi> Cant. 2.3. In the ſence of thy wants, his preſence ſhall ſup<g ref="char:EOLhyphen"/>port thee: hee will ſtay thee with the <hi>Flaggons</hi> of his promiſes; and comfort thee with the <hi>Apples</hi> of his graces, Cant. 2.5.</p>
+               <p>At the laſt Day thou ſhalt ariſe <hi>like a pillar of ſmoke,</hi>
+                  <note place="margin">Glorifica<g ref="char:EOLhyphen"/>tion.</note> 
+                  <hi>perfumed with the Myrrha and Incenſe, and with all the chiefe ſpices</hi> of the graces of perfect ſanctification, Cant. 3.6. and ſhalt bee <hi>quic<g ref="char:EOLhyphen"/>kened and raiſed together with Chriſt.</hi> Epheſ. 2.5. as one of the <hi>Congre<g ref="char:EOLhyphen"/>gation
+<pb n="79" facs="tcp:16038:44"/>of the firſt borne,</hi> Heb. 12.29. vnto that e<g ref="char:EOLhyphen"/>ternall glory, where thou ſhalt reſt in a bed <hi>better than Salomons,</hi> Cant. 3.7. and ſhalt perfectly enioy all thoſe things that God hath prepared for them that loue him. Which things <hi>eye hath not ſeene, no eare heard, neither haue entred into the mind of man,</hi> 1. Cor. 2.9.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:16038:45"/>
+            <pb n="81" facs="tcp:16038:45"/>
+            <head>THE CHRISTIAN DVTIE.</head>
+            <head type="sub">To crucifie the fleſh.</head>
+            <div n="16" type="section">
+               <head>16. <hi>The Chriſtian dig<g ref="char:EOLhyphen"/>nitie and dutie are in<g ref="char:EOLhyphen"/>ſeparable.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">H</seg>Itherto is ſet down the great dignity of thoſe excellent &amp; ſtately ones <hi>That are Chriſts.</hi> It is not an idle prerogatiue. It is that greateſt benefit, that bindeth all in an obligation of all dutie.
+<pb n="82" facs="tcp:16038:46"/>There is one dutie here made mention of: but many moe are vnder<g ref="char:EOLhyphen"/>ſtood by a neceſſarie conſequent, as</p>
+               <p>In Chriſt to become new creatures,
+<note place="margin">Duties of Chriſtians.</note> 2. Cor. 5.17. Gal. 5.14, 15.</p>
+               <p>To walke after the Spirit, and not after the fleſh, Rom. 8.1.</p>
+               <p>To abſtaine from for<g ref="char:EOLhyphen"/>nication, 1. Cor. 6.13, 15</p>
+               <p>To riſe with Chriſt, and ſeeke thoſe things that are aboue, where Chriſt ſitteth at the right hand of God, Co<g ref="char:EOLhyphen"/>loſ. 3.1.</p>
+               <p>To glorifie God in body and ſpirit, ſith we
+<pb n="83" facs="tcp:16038:46"/>are not our owne, but Chriſts, 1. Cor. 6.20.</p>
+               <p>All theſe things doe <hi>they that haue crucified the fleſh,</hi>
+                  <note place="margin">To crucifie the fleſh, what a worke.</note> 
+                  <hi>with the affecti<g ref="char:EOLhyphen"/>ons and luſts.</hi> A taske indeed great, and hard. Only proper to thoſe that are Chriſts, and to none others: and they only fit for it, which no other, but themſelues can performe. A worke both neceſſarie &amp; com<g ref="char:EOLhyphen"/>fortable: moſt diſplea<g ref="char:EOLhyphen"/>ſant to vs, and impoſſi<g ref="char:EOLhyphen"/>ble, by nature: yet by grace made eaſie and delightfull: and to God in Chriſt very accep<g ref="char:EOLhyphen"/>table.</p>
+               <pb n="84" facs="tcp:16038:47"/>
+               <p> The matter of this worke is three-folde: 1. The <hi>fleſh.</hi> 2. The <hi>affe<g ref="char:EOLhyphen"/>ctions.</hi> 3. The <hi>luſts.</hi>
+               </p>
+               <p>The forme of the worke, is to <hi>crucifie.</hi>
+               </p>
+            </div>
+            <div n="17" type="section">
+               <head>17 <hi>The fleſh viſible.</hi>
+               </head>
+               <p>THe <hi>fleſh</hi> is either <hi>vi<g ref="char:EOLhyphen"/>ſible</hi> or <hi>inuiſible.</hi>
+               </p>
+               <p>The <hi>viſible fleſh</hi> is that which is ſubiect to ſen<g ref="char:EOLhyphen"/>ſes, and may be felt and ſeene: this is our body. Man is called <hi>fleſh,</hi> Ge<g ref="char:EOLhyphen"/>neſis 6.12.
+<note place="margin">Why man and his life are called Fleſh.</note> And this pre<g ref="char:EOLhyphen"/>ſent life is called <hi>fleſh,</hi> 1. Cor. 7.28.</p>
+               <p>To reſemble the life
+<pb n="85" facs="tcp:16038:47"/>of man, as it is indeed euer in a flowing. Our <hi>fleſh</hi> is euer flowing in by nouriſhment, and flowing out by waſting and euaporation: that what of it is emptied by this, if it be not reſtored with the other, it muſt needs periſh. Three no<g ref="char:EOLhyphen"/>table things within our ſelues doe continually warne vs, that our liues are changeable, that we be euery moment ready to lay it downe.</p>
+               <p>Our waking &amp; ſleep<g ref="char:EOLhyphen"/>ing againe, for reſto<g ref="char:EOLhyphen"/>ring of our <hi>Animall</hi> ſpi<g ref="char:EOLhyphen"/>rits: Our continuall beating of heart and
+<pb n="86" facs="tcp:16038:48"/>arteries by <hi>Syſtole</hi> and <hi>Diaſtole,</hi> for repairing of our <hi>vitall</hi> ſpirits, and our voiding, filling and feeding, for repairing of our <hi>naturall</hi> ſpirits, and ſuſtaining of this maſſe of our <hi>fleſh;</hi> doe ſhew vnto vs, that wee all muſt flit, and that this houſe of clay wher<g ref="char:EOLhyphen"/>in we liue, ſome one day will fall downe about our eares.</p>
+               <p>
+                  <hi>Fleſh</hi> in the holy Scriptures,
+<note place="margin">Diuers ſig<g ref="char:EOLhyphen"/>nifications of fleſh.</note> is often ta<g ref="char:EOLhyphen"/>ken for that outward part of our perſon, the body, 2. Cor. 7.1. Some<g ref="char:EOLhyphen"/>times againe it is taken for our mortality, im<g ref="char:EOLhyphen"/>becillity,
+<pb n="87" facs="tcp:16038:48"/>and miſery, 1. Tim. 3.16. 2. Cor. 10.2. Phil. 1.24. compared with Iſa. 31.3.</p>
+               <p>It is taken other times for our whole hu<g ref="char:EOLhyphen"/>manity, and is attribu<g ref="char:EOLhyphen"/>ted to Chriſt, Ioh. 6.51. Act. 2.30. 1. Pet. 3.8.</p>
+               <p>Here by this viſible and externall fleſh, is vnderſtood our body, our bodily part of our perſon, which muſt bee crucified; not with hands of <hi>man,</hi> but by the hand of the holy <hi>Spirit:</hi> as ſhall hereaf<g ref="char:EOLhyphen"/>ter be mentioned, <hi>Sect.</hi> 27.</p>
+            </div>
+            <div n="18" type="section">
+               <pb n="88" facs="tcp:16038:49"/>
+               <head>18. <hi>The fleſh inuiſible.</hi>
+               </head>
+               <p>THe <hi>inuiſible fleſh</hi> is not ſubiect to the eye of the body,
+<note place="margin">Our corrup<g ref="char:EOLhyphen"/>tion is cal<g ref="char:EOLhyphen"/>led fleſh, and why.</note> but to the eye of the ſoule, Rom. 8.24. It is our na<g ref="char:EOLhyphen"/>turall corruption in ſin, which is called very of<g ref="char:EOLhyphen"/>ten <hi>fleſh:</hi> but improper<g ref="char:EOLhyphen"/>ly, and <hi>Metonymically:</hi> not ſo much for that it is <hi>propagated</hi> thrugh the fleſh, or that it is <hi>nou<g ref="char:EOLhyphen"/>riſhed</hi> in the fleſh; or executed by the fleſh, or <hi>encreaſed</hi> with bait<g ref="char:EOLhyphen"/>ing of fleſhly obiects. As for that, the <hi>chiefe
+<pb n="89" facs="tcp:16038:49"/>end</hi> that this our cor<g ref="char:EOLhyphen"/>ruption aimeth at, in all motions and actions, is, the ſenſuall delights of the fleſh and body. For what doe the whole vn<g ref="char:EOLhyphen"/>regenerate in the world reſpect, in their ſinfull honors, profits, or plea<g ref="char:EOLhyphen"/>ſures, 1. Ioh. 2.16. but only the body, and ſuch things as concerne the ſame? Neuer a true thought, nor care, haue they of the poore ſoule, nor of the immortalitie and ſaluation thereof: <hi>They minde alway earthly things,</hi> Phil. 3.19. Their <hi>wiſedome is ſenſuall and fleſhly,</hi> Iam. 3.15.</p>
+               <pb n="90" facs="tcp:16038:50"/>
+               <p> This is y<hi rend="sup">t</hi> 
+                  <hi>fleſh</hi> where<g ref="char:EOLhyphen"/>in dwelleth no good,
+<note place="margin">The inui<g ref="char:EOLhyphen"/>ſible fleſh deſcribed by other places of Scripture.</note> Rom. 7.18.</p>
+               <p>This is the <hi>law</hi> in our members, rebelling a<g ref="char:EOLhyphen"/>gainſt the law of our minde: and leading vs captiue vnto the law of ſinne, Rom. 7.23.</p>
+               <p>This <hi>fleſh</hi> maketh me<g ref="char:cmbAbbrStroke">̄</g> to <hi>ſauour</hi> the things of the fleſh, Rom. 8.5.</p>
+               <p>This <hi>fleſh</hi> is that bo<g ref="char:EOLhyphen"/>die <hi>of ſinne,</hi> Rom. 6.6. That <hi>wiſdome of the fleſh,</hi> which is death and en<g ref="char:EOLhyphen"/>mity againſt <hi>God,</hi> Rom. 8.6, 7.</p>
+               <p>They that are in this <hi>fleſh,</hi> cannot <hi>pleaſe</hi> God, Rom. 8.8.</p>
+               <pb n="91" facs="tcp:16038:50"/>
+               <p> The whole world by nature are poyſoned with this <hi>Sinning Sinne.</hi>
+                  <note place="margin">Why this fleſh ſhould be cruci<g ref="char:EOLhyphen"/>fied.</note> It cauſeth euery one to become an auowed e<g ref="char:EOLhyphen"/>nemie againſt <hi>God.</hi> It is the fountaine of all wic<g ref="char:EOLhyphen"/>kedneſſe: It tieth men to the earth, and ma<g ref="char:EOLhyphen"/>keth the<g ref="char:cmbAbbrStroke">̄</g> ſlaues to their owne ſenſualitie: And finally brings euery one to euerlaſting perditi<g ref="char:EOLhyphen"/>on. And therefore moſt needfull it is that it be <hi>crucified.</hi>
+               </p>
+            </div>
+            <div n="19" type="section">
+               <pb n="92" facs="tcp:16038:51"/>
+               <head>19. <hi>Affections holy.</hi>
+               </head>
+               <p>AFfections,
+<note place="margin">Affections three-fold.</note> as they are meerely natu<g ref="char:EOLhyphen"/>rall, wee cannot want them. As they are holy, wee muſt needes haue them. As they are vnho<g ref="char:EOLhyphen"/>ly, we muſt needs cruci<g ref="char:EOLhyphen"/>fie them.
+<note place="margin">Holy affe<g ref="char:EOLhyphen"/>ctions.</note>
+               </p>
+               <p>As for <hi>Affections</hi> that are <hi>holy:</hi> they are al<g ref="char:EOLhyphen"/>waies rightly moued: they exceed neither in matter, nor in meaſure: they are ſtirred by their right and proper ob<g ref="char:EOLhyphen"/>iects: they intend euer a godly end: they are
+<pb n="93" facs="tcp:16038:51"/>ruled by the Word, and ſanctified by the <hi>Spirit.</hi> They are onely moued by that <hi>Good,</hi> that <hi>God</hi> calleth <hi>Good:</hi> and by that <hi>euill</hi> that <hi>God</hi> cal<g ref="char:EOLhyphen"/>leth <hi>euill.</hi>
+               </p>
+               <p>They embrace no<g ref="char:EOLhyphen"/>thing but <hi>Good.</hi>
+               </p>
+               <p>They reiect nothing but <hi>euill.</hi>
+               </p>
+               <p>They are good ſer<g ref="char:EOLhyphen"/>uants to the ſoule: and burning ſparks of grace to kindle pietie.</p>
+            </div>
+            <div n="20" type="section">
+               <head>20. <hi>Affections vnholy.</hi>
+               </head>
+               <p>VNholy <hi>affections</hi> are to bee crucified.
+<note place="margin">Vnholy af<g ref="char:EOLhyphen"/>fections what they are.</note>
+                  <pb n="94" facs="tcp:16038:52"/>Theſe are the <hi>affections of Sinnes,</hi> Rom. 7.5.</p>
+               <p>And thoſe vngodly co<g ref="char:cmbAbbrStroke">̄</g>motions of the ſoule, accompanied euer with pleaſure or with paine. The ſoule of man is full of euill motions. For the imaginations of the thoughts of his heart are euill continually, Gen. 6.5.</p>
+               <p>They are perturba<g ref="char:EOLhyphen"/>tions, and paſſions, ſtir<g ref="char:EOLhyphen"/>red by our corruption, that doe tyrannize ouer the ſoule, to make it ſla<g ref="char:EOLhyphen"/>uiſhly ſerue ſenſuality.</p>
+               <p>They are motions that moue the ſoule to perpetrate ſinne: They
+<pb n="95" facs="tcp:16038:52"/>haue ſtrange force in our members; that is,
+<note place="margin">The force of wicked affections.</note> amongſt our faculties, Rom. 7.5. whereby the ſoule is moued to ſwell with ambition, to riſe with preſumption, to be deiected with deſpe<g ref="char:EOLhyphen"/>ration, to pine with en<g ref="char:EOLhyphen"/>uie, to fret with anger, to rage with malice, to faint in doubt, to bee puffed vp with proſpe<g ref="char:EOLhyphen"/>ritie, caſt downe with aduerſitie, oppreſſed by battels, betwixt ioy and ſorrow, hope and de<g ref="char:EOLhyphen"/>ſpaire, feare and care, loue and hatred, and pitie and rage. And o<g ref="char:EOLhyphen"/>uerhaled in one inſtant
+<pb n="96" facs="tcp:16038:53"/>with a tempeſt, &amp; con<g ref="char:EOLhyphen"/>trary tide, in a ſudden change of exceſſiue paſ<g ref="char:EOLhyphen"/>ſions: as of ioy in a mo<g ref="char:EOLhyphen"/>ment turned to ſorrow: of loue to hatred: and of confidence to feare, &amp;c.</p>
+               <p>The moſt part of thoſe that doe profeſſe the<g ref="char:cmbAbbrStroke">̄</g>ſelues to be Chriſts,
+<note place="margin">The euill of wicked af<g ref="char:EOLhyphen"/>fections.</note> haue their ſoules diſ<g ref="char:EOLhyphen"/>quieted with affections, their wit is defaced, grace is extinguiſhed: they proue at laſt fooles before the world: ene<g ref="char:EOLhyphen"/>mies to themſelues: and culpable before God. That vnleſſe they will moſt willingly runne
+<pb n="97" facs="tcp:16038:53"/>from Chriſt, to their owne perdition: it be<g ref="char:EOLhyphen"/>houeth them of neceſſi<g ref="char:EOLhyphen"/>tie to <hi>crucifie their affe<g ref="char:EOLhyphen"/>ctions.</hi>
+               </p>
+            </div>
+            <div n="21" type="section">
+               <head>21. <hi>Luſts Spirituall.</hi>
+               </head>
+               <p>LVſts are either <hi>Spi<g ref="char:EOLhyphen"/>rituall, Naturall,</hi>
+                  <note place="margin">Spirituall luſts what they are.</note> or <hi>Sinfull.</hi>
+               </p>
+               <p>Luſts <hi>Spirituall</hi> are ſuch as are contrarie to the fleſh: as the fleſh luſts againſt them, Gal. 5.17.</p>
+               <p>They are ſanctified deſires. They are engen<g ref="char:EOLhyphen"/>dred by the <hi>Holy Spirit.</hi> They are agreeable to
+<pb n="98" facs="tcp:16038:54"/>Gods will. They are conuerſant about hea<g ref="char:EOLhyphen"/>uenly and holy obiects. They are not to be cru<g ref="char:EOLhyphen"/>cified, but entertained.</p>
+               <p>By them we haue our conuerſation in hea<g ref="char:EOLhyphen"/>uen. By them we walke not after the fleſh: but after the Spirit. And by them we haue our inte<g ref="char:EOLhyphen"/>ſtine battels and victo<g ref="char:EOLhyphen"/>ries againſt the luſts of the fleſh.</p>
+            </div>
+            <div n="22" type="section">
+               <head>22. <hi>Luſts naturall.</hi>
+               </head>
+               <p>LVſts <hi>naturall,</hi>
+                  <note place="margin">Luſts natu<g ref="char:EOLhyphen"/>rall what they are.</note> are ſuch as are commo<g ref="char:cmbAbbrStroke">̄</g> to all, both to thoſe that
+<pb n="99" facs="tcp:16038:54"/>are Chriſts, and to thoſe that are not Chriſts. And are ſuch as meerly nature preſcribeth, (na<g ref="char:EOLhyphen"/>ture I vnderſtand in ſo farre as it is not vitiate) as the luſting for things lawfull, neceſſarie, mo<g ref="char:EOLhyphen"/>derate, they are more to be called naturall de<g ref="char:EOLhyphen"/>ſires then luſts: and are in themſelues indiffe<g ref="char:EOLhyphen"/>rent. As thoſe luſts are that concerne the law<g ref="char:EOLhyphen"/>full vſe of meate and drinke, and ſuch things as appertaine to the ne<g ref="char:EOLhyphen"/>ceſſitie and honeſtie of this life. Theſe luſts are not to be crucified, but moderate.</p>
+            </div>
+            <div n="23" type="section">
+               <pb n="100" facs="tcp:16038:55"/>
+               <head>23. <hi>Luſts ſinfull.</hi>
+               </head>
+               <p>
+                  <hi>LVſts ſpirituall</hi> are proper to thoſe that are Chriſts. Luſts ſin<g ref="char:EOLhyphen"/>full are proper to thoſe that are not Chriſts.</p>
+               <p>
+                  <hi>Luſts ſinfull,</hi> are thoſe, that they that are Chriſts haue crucified.</p>
+               <p>
+                  <hi>Luſt</hi> is taken ſome<g ref="char:EOLhyphen"/>times <hi>generally,</hi>
+                  <note place="margin">Sinfull luſt two<g ref="char:EOLhyphen"/>fold.</note> for ori<g ref="char:EOLhyphen"/>ginall ſinne and natu<g ref="char:EOLhyphen"/>rall corruption; and then it is all one with the fleſh. Sometimes it is taken more ſpecially, for thoſe ſinfull deſires that do ſpring from our
+<pb n="101" facs="tcp:16038:55"/>fleſh and corruption; and are ſtirred vp, and ſet forward by wicked affections; and are pra<g ref="char:EOLhyphen"/>ctiſed by the members of the body. <hi>Iames</hi> the Apoſtle, Epiſt. 1.14. ſets downe ſixe particu<g ref="char:EOLhyphen"/>lar poynts in the pro<g ref="char:EOLhyphen"/>ceſſe of <hi>humane tentati<g ref="char:EOLhyphen"/>ons,</hi>
+                  <note place="margin">The pro<g ref="char:EOLhyphen"/>ceſſe of hu<g ref="char:EOLhyphen"/>mane ten<g ref="char:EOLhyphen"/>tations.</note> whereof <hi>Concupiſ<g ref="char:EOLhyphen"/>cence</hi> is the ground; and is that ſame, that <hi>fleſh</hi> is in this place. The <hi>draw<g ref="char:EOLhyphen"/>ing</hi> and <hi>baiting</hi> of the heart by alluring ob<g ref="char:EOLhyphen"/>iects, are two ſinfull af<g ref="char:EOLhyphen"/>fections. The <hi>conceiuing</hi> of ſinne, and <hi>trauelling</hi> therewith, are the two<g ref="char:EOLhyphen"/>fold rage of raigning
+<pb n="102" facs="tcp:16038:56"/>luſts, and heere are to bee vnderſtood, and by thoſe that are Chriſts to be crucified. The <hi>fi<g ref="char:EOLhyphen"/>niſhing</hi> of ſinne, and <hi>bringing</hi> forth of death, are all thoſe externall euils both <hi>culpae &amp; pae<g ref="char:EOLhyphen"/>nae</hi> that doe fall, and fol<g ref="char:EOLhyphen"/>low vpon the fleſh, the affectio<g ref="char:cmbAbbrStroke">̄</g>s &amp; luſts, if they be not in time crucified.</p>
+            </div>
+            <div n="24" type="section">
+               <head>24. <hi>The nature of theſe wicked lusts.</hi>
+               </head>
+               <p>THey are called the luſts of the fleſh, 1.
+<note place="margin">Sinfull luſts, what they are.</note> Ioh. 2.6. Eph. 2.3. Gal. 5.16. 1. Pet. 2.11.</p>
+               <p>They are called the
+<pb n="103" facs="tcp:16038:56"/>luſts of the world, Tit. 2.12. 2. Pet. 1.4.</p>
+               <p>They are called mens own proper luſts, 2. Pet. 3.3. 2. Tim. 4.5.</p>
+               <p>They are alſo called the luſts of vncleannes, 2. Pet. 2.10. the luſts of the eyes, 1. Ioh. 2.16. the luſts of corruption, 2. Pet. 1.4. the luſts of men, 1. Pet. 4.2. euill luſts, Coloſ. 3.5. decei<g ref="char:EOLhyphen"/>uing luſts, Epheſ. 4.22.
+<note place="margin">The force of wicked luſts.</note>
+               </p>
+               <p>Theſe are the luſts which fight againſt the ſoule, 1. Pet. 2.11. A re<g ref="char:EOLhyphen"/>probate minde is giuen vp to theſe luſts, Rom. 1.24. The wicked giue obedience to theſe luſts,
+<pb n="104" facs="tcp:16038:57"/>Rom. 6.12. and are led with many noyſome &amp; fooliſh luſts, 1. Tim. 6.9.</p>
+               <p>This doth declare in what danger they liue and die in, that crucifie not their luſts, and are not Chriſts.</p>
+            </div>
+            <div n="25" type="section">
+               <head>25. <hi>What is it to crucifie the Fleſh.</hi>
+               </head>
+               <p>TO <hi>crucifie</hi> the fleſh, and to <hi>mortifie</hi> the fleſh,
+<note place="margin">Sanctifica<g ref="char:EOLhyphen"/>tion hath two parts.</note> are all one. It is the former part of our ſanctification; as viuifi<g ref="char:EOLhyphen"/>cation or reſurrection to a new life, is the o<g ref="char:EOLhyphen"/>ther part thereof, Eph. 4.23. Tit. 2.12.</p>
+               <pb n="105" facs="tcp:16038:57"/>
+               <p> To <hi>crucifie the fleſh,</hi>
+                  <note place="margin">To crucifie, what it is.</note> is a metaphorical phraſe, alluding vnto the cru<g ref="char:EOLhyphen"/>cifying of the body of any one that is condem<g ref="char:EOLhyphen"/>ned to die, by that form of death of malefactors: or becauſe it muſt bee according to the ſimili<g ref="char:EOLhyphen"/>tude of Chriſts crucify<g ref="char:EOLhyphen"/>ing, Rom. 6.5. Or moſt of all, becauſe it muſt be done by that vertue that is in the <hi>Croſſe of Chriſt,</hi> and communi<g ref="char:EOLhyphen"/>cated to vs by the <hi>Spi<g ref="char:EOLhyphen"/>rit.</hi> For if we be planted with him vnto the <hi>ſimi<g ref="char:EOLhyphen"/>litude</hi> of his death: euen ſo ſhall wee be vnto the ſimilitude of his reſur<g ref="char:EOLhyphen"/>rection:
+<pb n="106" facs="tcp:16038:58"/>knowing this, that our old man is cru<g ref="char:EOLhyphen"/>cified with him, that the body of ſinne might be deſtroyed, that hence<g ref="char:EOLhyphen"/>forth wee ſhould not ſerue ſinne, Rom. 6.5, 6.</p>
+               <p>The very proper mea<g ref="char:EOLhyphen"/>ning of this crucifying of the fleſh is this,
+<note place="margin">What is meant by crucifying.</note> accor<g ref="char:EOLhyphen"/>ding to the Apoſtles counſell.</p>
+               <p>Let not ſinne raigne in your mortall bodie, that ye ſhould obey it in the luſts therof, Rom. 6.12.</p>
+               <p>Let not ſinne haue dominion ouer you, verſ. 14. Let ſinne bee ſubdued and deſtroyed,
+<pb n="107" facs="tcp:16038:58"/>verſ. 6. Serue ſinne no longer, verſ. 16. Become free of ſinne, verſ. 18. Ceaſe from ſin, 1. Pet. 4.1. and doe all this by the onely vertue and power of Chriſts death &amp; Croſſe, Rom. 6.1, &amp;c. and by a true conformi<g ref="char:EOLhyphen"/>ty therewith, Phil. 3.10.</p>
+               <p>This crucifying of the fleſh importeth ne<g ref="char:EOLhyphen"/>ceſſarily the other part of our <hi>Sanctification,</hi>
+                  <note place="margin">The cruci<g ref="char:EOLhyphen"/>fying of the fleſh is in<g ref="char:EOLhyphen"/>ſeparable from a new life.</note> to wit, a <hi>riſing</hi> to a new<g ref="char:EOLhyphen"/>neſſe of life, without the which, the other can<g ref="char:EOLhyphen"/>not be a true &amp; a right crucifying, Col. 3.9, 10. ſo as they that are Chriſts, haue crucified
+<pb n="108" facs="tcp:16038:59"/>the fleſh: euen ſo like<g ref="char:EOLhyphen"/>wiſe they haue riſen to a newneſſe of life, Rom. 6.5, 11, 18.</p>
+            </div>
+            <div n="26" type="section">
+               <head>26. <hi>How the internall fleſh, affections and luſts, are to be crucified.</hi>
+               </head>
+               <p>THe crucifying of the fleſh depends vpon our <hi>vnion</hi> with Chriſt:
+<note place="margin">The cruci<g ref="char:EOLhyphen"/>fying of the fleſh de<g ref="char:EOLhyphen"/>pends on Chriſts vni<g ref="char:EOLhyphen"/>on with vs:</note> our <hi>vnion</hi> with Chriſt, is by faith, Eph. 3.17. By faith he is ours, and we are his. By faith we apprehe<g ref="char:cmbAbbrStroke">̄</g>d in Chriſts death and Croſſe, both <hi>merit</hi> and <hi>vertue.</hi> By the <hi>merit</hi> of his Croſſe wee
+<pb n="109" facs="tcp:16038:59"/>are iuſtified: by the <hi>ver<g ref="char:EOLhyphen"/>tue</hi> of his Croſſe we doe crucifie our fleſh.
+<note place="margin">And on the power of his Croſſe.</note> The power of his Croſſe is effectuall in vs, by the ſecret operation of his holy Spirit: ſo <hi>that our old man is crucified with Chriſt,</hi> Rom. 6.6. <hi>We are crucified with Chriſt,</hi> Gal. 2.20.</p>
+               <p>The holy <hi>Spirit</hi> ſtirreth vp the faith of thoſe that are Chriſts,
+<note place="margin">How Chriſts Croſſe workes in vs.</note> by a conſi<g ref="char:EOLhyphen"/>dering or iudging with themſelues, 2. Cor. 5.14 and conceiuing a <hi>diſ<g ref="char:EOLhyphen"/>dainfulneſſe at ſinne;</hi>
+                  <note place="margin">Hatred of ſinne, how wrought in vs.</note> and a <hi>thankefulneſſe to Chriſt.</hi>
+               </p>
+               <p>A <hi>diſdainfulneſſe at ſinne,</hi> is conceiued in
+<pb n="110" facs="tcp:16038:60"/>the conſideration of Chriſts Croſſe: when as wee thinke earneſtly vpon Chriſt, ſo inno<g ref="char:EOLhyphen"/>cent, and ſo great in dignity, &amp;c. and vpon his Croſſe ſo curſed, ſo ſhamefull, and ſo pain<g ref="char:EOLhyphen"/>full; accompanied with the moſt horrible ſence of Gods anger; we con<g ref="char:EOLhyphen"/>ceiue a deteſtation and hatred at ſinne, being ſo infinite and great an euill in it ſelfe, that it could no otherwiſe bee expiated, but by the fa<g ref="char:EOLhyphen"/>cred blood of the moſt High God, Act. 20.28. And hereupon wee are moued more and more,
+<pb n="111" facs="tcp:16038:60"/>both to diſdaine it, and to diſ-haunt it; yea, by time to kill it, and to bury it, that it haue no more power in vs to raigne in our mortall bodies.</p>
+               <p>A great poynt of thankfulneſſe to Chriſt is likewiſe conceiued,
+<note place="margin">Thankful<g ref="char:EOLhyphen"/>neſſe how wrought.</note> in the right meditation of Chriſts Croſſe. Wee ſee in Chriſts Croſſe the moſt excellent be<g ref="char:EOLhyphen"/>nefit of our redemption, the greateſt beneficence of the greateſt Benefa<g ref="char:EOLhyphen"/>ctor: euen that bounti<g ref="char:EOLhyphen"/>fulneſſe of that loue of God our Sauiour, Tit. 3.4. when wee were of
+<pb facs="tcp:16038:61"/>no ſtrength, he died for the vngodly, Rom. 5.6. He loued vs, &amp; waſhed vs in his blood, from our ſinnes, Reuel. 1.5. There is no greater loue, than this his loue, whereby he gaue his life for vs, Ioh. 15.13. It paſſeth all knowledge, Epheſ. 3.19.</p>
+               <p>It pleaſeth God by his holy Spirit, to ſhed abroad this loue in our hearts, Rom. 5.5. which when wee feele, it con<g ref="char:EOLhyphen"/>ſtraineth vs, 2. Cor. 5.14.</p>
+               <p>That we henceforth liue not vnto our ſelues, but vnto him that died
+<pb n="113" facs="tcp:16038:61"/>for vs, and roſe againe, 2. Cor. 5.15.</p>
+               <p>
+                  <hi>Arraigne</hi> therefore with expedition,
+<note place="margin">An admo<g ref="char:EOLhyphen"/>nition al<g ref="char:EOLhyphen"/>luding to the Croſſe of Chriſt.</note> thy fleſh, thy affections and luſts, vnto the conſiſto<g ref="char:EOLhyphen"/>ry of thy conſcience: trie and iudge them by the Word: conuince and condemne them moſt iuſtly to be cruci<g ref="char:EOLhyphen"/>fied with Chriſt.</p>
+               <p>
+                  <hi>Leade</hi> them foorth without the Campe of thy heart, vnto the vileſt <hi>Golgotha,</hi> there to ſuf<g ref="char:EOLhyphen"/>fer.</p>
+               <p>
+                  <hi>Strip</hi> them naked of all their falſe externall veſtures of profit, plea<g ref="char:EOLhyphen"/>ſure and honour, with
+<pb n="114" facs="tcp:16038:62"/>all their deceitfulneſſe; that their filthy naked<g ref="char:EOLhyphen"/>neſſe may appeare, to their further deteſta<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>Crucifie</hi> thy affecti<g ref="char:EOLhyphen"/>ons, and fixe them by faith vpon the Croſſe of Chriſt; who is that tree of <hi>life,</hi> Reuel. 22. which giueth death vn<g ref="char:EOLhyphen"/>to ſinne, but life and health to his owne.</p>
+               <p>
+                  <hi>Curſe</hi> them from thy heart, and hate them with a moſt deadly ha<g ref="char:EOLhyphen"/>tred.</p>
+               <p>
+                  <hi>Giue</hi> them to drinke the bittereſt <hi>Aloes</hi> of a contrite heart.</p>
+               <p>
+                  <hi>Ceaſe</hi> not from cruci<g ref="char:EOLhyphen"/>fying,
+<pb n="115" facs="tcp:16038:62"/>them till they bee fully dead.</p>
+               <p>Then <hi>bury</hi> them with Chriſt, vntill they bee throughly waſted and conſumed.</p>
+               <p>At laſt lift vp thy heart &amp; head with ioy, vnto thy Redeemer, and ſay confidently, Now I know that <hi>my Well-beloued is mine, and I am his: hee feedeth a<g ref="char:EOLhyphen"/>mong the Lillies,</hi> Cant. 2.16. For I hate them that hate thee (chiefly ſinne and Satan) with an vn<g ref="char:EOLhyphen"/>fained hatred, as they were my vtter enemies, Pſalm. 139.22. and for thy ſake I haue crucified
+<pb n="116" facs="tcp:16038:63"/>the fleſh, with the affe<g ref="char:EOLhyphen"/>ctions and luſts. And becauſe I delight and reioyce in nothing ſo much as in thy Croſſe: I am likewiſe crucified to the world, and the world is crucified to me. As the world deſpi<g ref="char:EOLhyphen"/>ſeth me for thy Croſſe ſake; ſo by the ver<g ref="char:EOLhyphen"/>tue and power of that ſame Croſſe, I deſpiſe the world, Galat. 4.16. yea, for thy ſake I count my greateſt <hi>vantage</hi> to bee loſſe, and doe e<g ref="char:EOLhyphen"/>ſteeme all things but dung to <hi>gaine</hi> thee, Phil. 3.8. And all ye that loue the Lord, hate euill,
+<pb n="117" facs="tcp:16038:63"/>Pſalm. 97.10. And let vs all walke worthy of the Lord, Coloſ. 1.10. and of that great vocation and eſtate wherein wee are called to bee his, Epheſ. 4.1. And let vs, with thoſe ten thou<g ref="char:EOLhyphen"/>ſand times ten thou<g ref="char:EOLhyphen"/>ſand, &amp; thouſand thou<g ref="char:EOLhyphen"/>ſand of Angels, ſay with our hearts, <hi>Worthy is the Lambe that was killed, to receiue power, and ri<g ref="char:EOLhyphen"/>ches, and wiſedome, and ſtrength, and honour, and glory, and praiſe,</hi> Reuel. 5.11, 12, 13.</p>
+            </div>
+            <div n="27" type="section">
+               <pb n="118" facs="tcp:16038:64"/>
+               <head>27. <hi>How the externall fleſh, and body is to be cru<g ref="char:EOLhyphen"/>cified?</hi>
+               </head>
+               <p>TO crucify the fleſh,
+<note place="margin">What it is to crucifie the body.</note> is not to put vio<g ref="char:EOLhyphen"/>lent hands into the bo<g ref="char:EOLhyphen"/>dy; as did <hi>Achitophel</hi> and <hi>Iudas.</hi> Neither is it, to plague it with needleſſe and ſuperſtiti<g ref="char:EOLhyphen"/>ous auſterities; of watch<g ref="char:EOLhyphen"/>ings, faſtings, nakednes, pilgrimages, ſcurgings, &amp;c. As parts of that Pa<g ref="char:EOLhyphen"/>piſticall penall-ſatisfa<g ref="char:EOLhyphen"/>ction for appeaſing of diuine wrath: which things haue indeede a
+<pb n="119" facs="tcp:16038:64"/>ſhew of wiſedome, in a voluntary religion, and humbleneſſe of minde, and in not ſparing the body, Col. 2.23. But to crucify the bodily fleſh, is to abſtaine from all things, ſo farre as it may ſerue to obtain that incorruptible crowne: To beat down <hi>the body, and to bring it to ſubie<g ref="char:EOLhyphen"/>ction,</hi> 1. Cor. 9.25, 27. If wee giue the body too much, we feede a foe: if too little, wee kill a friend. The neceſſitie of the body (not the ſuper<g ref="char:EOLhyphen"/>fluitie) is to bee regar<g ref="char:EOLhyphen"/>ded. It muſt ſerue and not command: The ſer<g ref="char:EOLhyphen"/>uant
+<pb n="120" facs="tcp:16038:65"/>muſt not bee pre<g ref="char:EOLhyphen"/>ferred to the Maſter. It is a ſhame to any to be a ſlaue to his owne bo<g ref="char:EOLhyphen"/>dy. Euery one ſhould ſay with himſelfe: <hi>Ma<g ref="char:EOLhyphen"/>ior ſum, &amp; ad maiora ge<g ref="char:EOLhyphen"/>nitus, quàm vt ſim man<g ref="char:EOLhyphen"/>cipium corporis mei, Senec. epiſt.</hi> 66. I am greater, and borne to a greater eſtate, then I ſhould be<g ref="char:EOLhyphen"/>come a ſlaue to my bo<g ref="char:EOLhyphen"/>dy.</p>
+               <p>Wee ſhould alwaies be conuerſant with our beſt and diuine part:
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> but with that querulous &amp; fragill part, ſeldome: and onely vpon neceſſi<g ref="char:EOLhyphen"/>tie. What needes the
+<pb n="121" facs="tcp:16038:65"/>priſoner haue ſuch care of his priſon? Whileſt thou liueſt in the body, liue not for the body: Hold it vnder obedi<g ref="char:EOLhyphen"/>ence. If it be pampered, it will repine: delicately to entertaine it, is to quench fire with gun<g ref="char:EOLhyphen"/>powder. By externall abſtinence and exerci<g ref="char:EOLhyphen"/>ſes, fit it for internall mortification.</p>
+               <p>Accuſtome thy ſelfe to command thy de<g ref="char:EOLhyphen"/>lights. Shun all that are vnlawfull In thoſe that are lawfull, keep a mea<g ref="char:EOLhyphen"/>ſure. Suſtaine and ab<g ref="char:EOLhyphen"/>ſtaine. Giue thy body nothing, that thy con<g ref="char:EOLhyphen"/>ſcience
+<pb n="122" facs="tcp:16038:66"/>bids withhold. Be not ſo like <hi>Martha,</hi> to the body, as like <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> for the ſoule.</p>
+            </div>
+            <div n="28" type="section">
+               <head>28. <hi>To crucifie the fleſh, &amp;c. is with difficultie and paine.</hi>
+               </head>
+               <p>THe word it ſelf <hi>(cru<g ref="char:EOLhyphen"/>cifie)</hi> ſheweth that this worke cannot bee without difficultie and paine. And as it is not done in one moment, ſo it is not done with a wiſh. There muſt bee a labour, a buſineſſe, a tra<g ref="char:EOLhyphen"/>uell in the dolours of the new birth.</p>
+               <pb n="123" facs="tcp:16038:66"/>
+               <p> Such two old intire friends, as is the Fleſh,
+<note place="margin">The cruci<g ref="char:EOLhyphen"/>fyng of the fleſh begin<g ref="char:EOLhyphen"/>neth at ſor<g ref="char:EOLhyphen"/>row for ſin.</note> and the Spirit, cannot part company, without teares. The olde man cannot bee mortified, without the ſorrow of a contrite ſpirit. The fore-skinne of our fleſh cannot be circumciſed, without ſome ſenſe of ſecret griefe.</p>
+               <p>We cannot be deli<g ref="char:EOLhyphen"/>uered of our falſe con<g ref="char:EOLhyphen"/>ception of <hi>that bodie of ſinne,</hi> without ſome ma<g ref="char:EOLhyphen"/>nifeſt dolour.</p>
+               <p>If thou wouldeſt ther<g ref="char:EOLhyphen"/>fore rightly attempt the crucifying of the fleſh,
+<note place="margin">Admonitio<g ref="char:cmbAbbrStroke">̄</g>.</note> &amp;c. thou muſt begin at
+<pb n="124" facs="tcp:16038:67"/>a humbled heart: thou muſt ſow in teares, that thou maiſt reape in ioy: Pſal. 126.5. Thou muſt not thinke to flie the wreſtlings, without a wounded conſcience. Thou muſt ſorrow to Godward: and ſuffer ſome ſecret pangs of the ſenſe of thy owne ſins, and Gods wrath: and of battels betwixt the fleſh and the Spirit.</p>
+               <p>Thou muſt lament before the Lord; that thou haſt been ſo long in beginning to crucifie the fleſh. Thou wilt find many ſecret perplexi<g ref="char:EOLhyphen"/>ties in parting with thy
+<pb n="125" facs="tcp:16038:67"/>domeſticke gods, thy fond affections &amp; luſts.</p>
+               <p>Whoſoeuer haue not found within the<g ref="char:cmbAbbrStroke">̄</g>ſelues, theſe ſecret terrors, do<g ref="char:EOLhyphen"/>lours and battels, as yet they haue not knowne, nor felt what it is to crucifie the fleſh, &amp;c.</p>
+               <p>But here is thy com<g ref="char:EOLhyphen"/>fort;
+<note place="margin">Comfort.</note> If thou haſt cruci<g ref="char:EOLhyphen"/>fied that old man, thy ſorrow ſhall be turned to ioy, thy battels to peace: and thy terrors to comforts, which are vnſpeakable and glo<g ref="char:EOLhyphen"/>rious.</p>
+            </div>
+            <div n="29" type="section">
+               <pb n="126" facs="tcp:16038:68"/>
+               <head>29. <hi>Who doe crucifie the fleſh?</hi>
+               </head>
+               <p>SOme do <hi>cheriſh</hi> their fleſh,
+<note place="margin">Only they that are true Chri<g ref="char:EOLhyphen"/>ſtians doe crucifie the fleſh.</note> affections and luſts, as the <hi>Epicure.</hi> Some doe <hi>croſſe</hi> a little their fleſh &amp; affections, as the <hi>Moraliſt.</hi> Some doe <hi>curſe</hi> them, as the <hi>deſperate.</hi>
+               </p>
+               <p>The <hi>Hypocrite</hi> may <hi>co<g ref="char:EOLhyphen"/>uer</hi> or <hi>colour</hi> his fleſh and affections, but hee cannot crucifie them. But none doe <hi>crucifie</hi> them, but they that are <hi>Christs.</hi>
+               </p>
+               <p>It is one thing to re<g ref="char:EOLhyphen"/>ſtraine
+<pb n="127" facs="tcp:16038:68"/>or bridle y<hi rend="sup">e</hi> fleſh and the luſts, and ano<g ref="char:EOLhyphen"/>ther thing to crucifie them. Only a true Chri<g ref="char:EOLhyphen"/>ſtian, who is Chriſts in<g ref="char:EOLhyphen"/>deed, doth truly crucifie his corruptio<g ref="char:cmbAbbrStroke">̄</g> and luſts. It may be ſaid to him, as the Angell ſaid to <hi>Gedeon: The Lord is with thee, thou valiant man,</hi> Iudg. 6.12. <hi>The ſword of the Lord and of Gedeon a<g ref="char:EOLhyphen"/>gainſt Iericho,</hi> Iudg. 7.20. So, <hi>The ſword of the Spi<g ref="char:EOLhyphen"/>rit,</hi> and of a Chriſtian a<g ref="char:EOLhyphen"/>gainſt ſinne, to crucifie the fleſh and the luſts, &amp;c.</p>
+               <p>Many poynts of our fleſhly corruption; ma<g ref="char:EOLhyphen"/>ny
+<pb n="128" facs="tcp:16038:69"/>luſts and affections may lie long hid and ſleeping within men; becauſe they want oc<g ref="char:EOLhyphen"/>caſion of obiects and tentations to ſtir them and awake them. But this ſleeping of affecti<g ref="char:EOLhyphen"/>ons, is not the crucify<g ref="char:EOLhyphen"/>ing of affections. Onely thoſe that are Chriſts, doe crucifie the fleſh, with the affections and luſts.</p>
+            </div>
+            <div n="30" type="section">
+               <head>30. <hi>Who crucifie them not?</hi>
+                  <note place="margin">They that are not Chriſts can<g ref="char:EOLhyphen"/>not crucifie the fleſh.</note>
+               </head>
+               <p>WHoſoeuer are not Chriſts they
+<pb n="129" facs="tcp:16038:69"/>ca<g ref="char:cmbAbbrStroke">̄</g>not crucifie the fleſh; they haue neither ſee<g ref="char:EOLhyphen"/>ing eyes, nor feeling hearts, to perceiue their fleſh and affections. Without Chriſt, they can doe nothing: with<g ref="char:EOLhyphen"/>out Chriſt, they are meerly naturall, ſenſu<g ref="char:EOLhyphen"/>all, carnall, and in great confederacy with their luſts and fleſh. Their amity and wiſedome, is enmity againſt God: the body cannot liue without the head: the branch cannot beare fruit without the tree: the houſe cannot ſtand without the corner<g ref="char:EOLhyphen"/>ſtone: no more can
+<pb n="130" facs="tcp:16038:70"/>they that are without Chriſt, crucifie their fleſh, affections &amp; luſts. They are enemies of Chriſts Croſſe, whoſe end is damnatio<g ref="char:cmbAbbrStroke">̄</g>, whoſe God is their belly, and whoſe glory is to their ſhame; which minde earthly things, Phil. 3.19.</p>
+               <p>They that are with<g ref="char:EOLhyphen"/>out Chriſt,
+<note place="margin">To reſtraine ſinne, is not to crucifie ſinne.</note> may hide ſin and reſtraine ſinne: but cannot crucifie ſin. Ma<g ref="char:EOLhyphen"/>ny corruptions may bee lurking within them, and as yet not awaked. Many I haue ſeen walk<g ref="char:EOLhyphen"/>ing, eating, drinking, going abroad, atten<g ref="char:EOLhyphen"/>ding
+<pb n="131" facs="tcp:16038:70"/>their affaires, their mirth, &amp; their paſtime: and yet hauing within their body with many ſecret ſleeping obſtru<g ref="char:EOLhyphen"/>ctions, corruptio<g ref="char:cmbAbbrStroke">̄</g>s, ſhir<g ref="char:EOLhyphen"/>rouſes, malignities, rea<g ref="char:EOLhyphen"/>dy to be impregnat and ſtirred vp, and to be<g ref="char:EOLhyphen"/>come moſt painfull, dangerous and deadly diſeaſes. So may thoſe that are without Chriſt haue their fleſh, affecti<g ref="char:EOLhyphen"/>ons and luſts in many poynts, lying in a drow<g ref="char:EOLhyphen"/>ſineſſe, and brought a<g ref="char:EOLhyphen"/>ſleepe for a time: this is not to haue the fleſh in any wiſe crucified.</p>
+               <p>They may haue their
+<pb n="132" facs="tcp:16038:71"/>fleſh and affections re<g ref="char:EOLhyphen"/>ſtrained: their office, e<g ref="char:EOLhyphen"/>ducation, imitation, af<g ref="char:EOLhyphen"/>fection, feare, ingenuity of nature, infancy, age, ſexe, morall vertues, and the generall and commo<g ref="char:cmbAbbrStroke">̄</g> repreſſing gifts of the Spirit, may bri<g ref="char:EOLhyphen"/>dle their fleſh and luſts in many degrees: and yet neuer a whit truly crucified.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note>
+               </p>
+               <p>Let vs not therefore thinke our ſelues the more happy, or the more to be Chriſts: for all our ſimple reſtraint of ſinne, conformity of Chriſtian ma<g ref="char:cmbAbbrStroke">̄</g>ners, ſtop<g ref="char:EOLhyphen"/>ping of groſſer ſinnes,
+<pb n="133" facs="tcp:16038:71"/>ciuill or morall carri<g ref="char:EOLhyphen"/>age, faire and ſeemly fa<g ref="char:EOLhyphen"/>ſhions, vnleſſe by the vertue of Chriſts Croſſe we doe mortifie ſinne at the root: and except wee finde ſenſible, that nothing in this whole world moues vs more to crucifie ſin, and beate downe any corruption or luſt in vs; as the ſpe<g ref="char:EOLhyphen"/>ciall conſideration of the power of Chriſts croſſe.</p>
+            </div>
+            <div n="31" type="section">
+               <pb n="134" facs="tcp:16038:72"/>
+               <head>31. <hi>How farre can the fleſh, &amp;c. be cru<g ref="char:EOLhyphen"/>cified?</hi>
+               </head>
+               <p>THe body may moſt of all be eaſily cru<g ref="char:EOLhyphen"/>cified,
+<note place="margin">It is eaſier to crucifie the body, than the luſts: and the luſts, than the affections.</note> by beating it downe, and holding it vnder ſome obedience of abſtinence and auſte<g ref="char:EOLhyphen"/>rity, &amp; weaning it from many delights.</p>
+               <p>
+                  <hi>Luſts</hi> againe are more eaſily crucified than <hi>af<g ref="char:EOLhyphen"/>fections;</hi> becauſe they are more neere the ex<g ref="char:EOLhyphen"/>ternall body, and acti<g ref="char:EOLhyphen"/>ons thereof: affections againe hardlier are cru<g ref="char:EOLhyphen"/>cified
+<pb n="135" facs="tcp:16038:72"/>than luſts. But the fleſh it ſelfe,
+<note place="margin">The inter<g ref="char:EOLhyphen"/>nall fleſh is moſt hardly crucified.</note> that <hi>body of death, and ſin,</hi> moſt hard<g ref="char:EOLhyphen"/>ly of all: for it is the ſtrong root, out of the which the reſt doth ſpring vp. And yet none of all theſe can be truly crucified, vnleſſe they al bee crucified in ſome true meaſure &amp; degree.</p>
+               <p>Many branches of our luſts haue been cut, and yet ſpring againe: many quenched, yet kindled againe: ma<g ref="char:EOLhyphen"/>ny affections ſubdued, yet rebelling againe: becauſe the root (the fleſh) hath yet neuer bin rightly rooted out.</p>
+               <pb n="136" facs="tcp:16038:73"/>
+               <p> The fleſh can neuer bee fully and perfectly crucified,
+<note place="margin">The fleſh cannot bee perfectly crucified.</note> ſo long as we are in this tabernacle of clay. They that are Chriſts, muſt not bee tryed by perfect ſancti<g ref="char:EOLhyphen"/>fication. Sinne will re<g ref="char:EOLhyphen"/>main, though not raign. Wee muſt ſee and feele our corruption, but not walke after it: yet while wee are diſclaiming it, it will bee diſquieting vs; and while wee are mourning for it, it will ſtill be marring vs.</p>
+               <p>And although <hi>Sarah</hi> and <hi>Hagar</hi> bee dwelling in the houſe of <hi>Abra<g ref="char:EOLhyphen"/>ham, Hagar</hi> muſt bee
+<pb n="137" facs="tcp:16038:73"/>ſubiect to <hi>Sarah;</hi> or elſe both <hi>Hagar</hi> &amp; her chil<g ref="char:EOLhyphen"/>dren muſt bee caſt out, Gen. 16.6.</p>
+            </div>
+            <div n="32" type="section">
+               <head>32. <hi>When doe we crucifie the fleſh, &amp;c?</hi>
+               </head>
+               <p>IT is once truly be<g ref="char:EOLhyphen"/>gun,
+<note place="margin">Our whole life ſhould be a cruci<g ref="char:EOLhyphen"/>fying of ſinne.</note> but neuer in this life fully finiſhed. For as the <hi>inward man is renued daily,</hi> 2. Cor. 4.16. So the <hi>outward man</hi> (the fleſh) is crucified daily. And although the Apo<g ref="char:EOLhyphen"/>ſtle vſeth the <hi>praeterit</hi> time, wherby he vnder<g ref="char:EOLhyphen"/>ſtandeth the true be<g ref="char:EOLhyphen"/>ginning of this worke:
+<pb n="138" facs="tcp:16038:74"/>yet ſo long as wee liue, the continuall practice of it remaines, and ſhall not bee finiſhed vntill death.</p>
+               <p>The mortified <hi>Ro<g ref="char:EOLhyphen"/>manes</hi> are ſtill exhorted to mortifie the luſts of the body, Rom. 8. The renued <hi>Epheſians</hi> and <hi>Coloſsians</hi> are willed to doe the ſame, Epheſ. 4.22. Col. 3.8. We muſt ſtill be doing this work, wee muſt crucifie the fleſh, and crucifie it a<g ref="char:EOLhyphen"/>gaine.
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> Let vs be doing this euer without inter<g ref="char:EOLhyphen"/>miſſion. There will euer remaine ſome parts of the root of ſinne; out of
+<pb n="139" facs="tcp:16038:74"/>the which, ſome new &amp; noyſome branches will ſpring out, vnleſſe we be ſtil <hi>crucifying:</hi> vntill the time we ſee God face to face, we wil euer ſee an<g ref="char:EOLhyphen"/>other <hi>law in our me<g ref="char:cmbAbbrStroke">̄</g>bers,</hi> repugning againſt the <hi>law of our mind,</hi> Rom. 7.23. Againſt the which we muſt haue a continu<g ref="char:EOLhyphen"/>all battell; which alſo by the power of Gods Spirit wee muſt be ſtill crucifying; and conti<g ref="char:EOLhyphen"/>nually wee muſt ende<g ref="char:EOLhyphen"/>uour,
+<note place="margin">Our imper<g ref="char:EOLhyphen"/>fection.</note> that as the fleſh and the Spirit (our <hi>vn<g ref="char:EOLhyphen"/>regenerate</hi> and <hi>regene<g ref="char:EOLhyphen"/>rate</hi> parts) are neuer ful<g ref="char:EOLhyphen"/>ly ſundred: they both
+<pb n="140" facs="tcp:16038:75"/>concurre in place and action: they are mixed through all, and in all our naturall faculties and actions; whereby all our beſt workes are imperfect. So I ſay, wee ſhould endeuour ſo to crucifie the fleſh, that the Spirit may haue the preeminence in all things; although with ſome oppoſition, and contagion of the fleſh, 1. Ioh. 5.45.</p>
+               <p>Hereof it followeth, that both we, and all our beſt workes are but imperfectly good;
+<note place="margin">Our per<g ref="char:EOLhyphen"/>fection.</note> yet wee are acceptable be<g ref="char:EOLhyphen"/>fore God, through Ieſus
+<pb n="141" facs="tcp:16038:75"/>Chriſt, 1. Pet. 2.5. All our perfection is but ei<g ref="char:EOLhyphen"/>ther <hi>comparatiue,</hi> being compared with the vn<g ref="char:EOLhyphen"/>godly; or <hi>imputatiue,</hi> being ours in Chriſt; or <hi>inchoatiue,</hi> being begun by the Spirit: or <hi>affe<g ref="char:EOLhyphen"/>ctiue,</hi> more in the affe<g ref="char:EOLhyphen"/>ction, than effectiue in action.</p>
+            </div>
+            <div n="33" type="section">
+               <head>33. <hi>Why muſt the fleſh, &amp;c. be crucified?</hi>
+               </head>
+               <p>BVt what? may wee not be Chriſts, and doe as we pleaſe? what need is there, to thoſe that are Chriſts, to cru<g ref="char:EOLhyphen"/>cifie
+<pb n="142" facs="tcp:16038:76"/>the fleſh? May we not turne the grace of God to wantonneſſe? may wee not ſinne, that grace may abound? Is there ſuch a neceſſity that wee muſt crucifie the fleſh?</p>
+               <p>Truly a neceſſity lieth vpon vs,
+<note place="margin">To crucifie the fleſh, &amp;c. a thing moſt neceſ<g ref="char:EOLhyphen"/>ſary.</note> to crucifie the fleſh; for vnleſſe we kill ſinne, it will kill vs.</p>
+               <p>The fleſh luſts againſt the Spirit, Galat. 5.17. wee muſt crucifie the fleſh, that wee may liue in the Spirit. They that are in the fleſh, cannot pleaſe God, Rom. 8.8. Carnall men walke as men in the workes of
+<pb n="143" facs="tcp:16038:76"/>the fleſh, 1. Cor. 3.3. If we liue after the fleſh, we ſhall dye. Rom. 8.13. Fleſhly luſts doe fight a<g ref="char:EOLhyphen"/>gainſt the ſoule, 1. Pet. 2.</p>
+               <p>They that ſow to the fleſh, of the fleſh ſhall reape corruption, Gal. 6. And they that doe not crucifie the fleſh, &amp; the works thereof, ſhall not inherit the king<g ref="char:EOLhyphen"/>dome of God, Gal. 5.19, 21.</p>
+               <p>It ſtands vs therefore vpon the perill of con<g ref="char:EOLhyphen"/>demnation,
+<note place="margin">Admoni<g ref="char:EOLhyphen"/>tion.</note> if we do not crucifie truly the fleſh. Who can liue with a deadly foe, from whom they cannot flie, vnleſſe they make battell to o<g ref="char:EOLhyphen"/>uerthrow
+<pb n="144" facs="tcp:16038:77"/>him? Who can willingly keepe a Scorpion in their bo<g ref="char:EOLhyphen"/>ſome, and not kill it? Our fleſh and affections and luſts, muſt either bring on vs an eternall curſe, or elſe we muſt in time crucifie them. We muſt conſume all thoſe, which the Lord our God doth giue vs to conſume: Deut. 7.16. compared with 13.6. And if our deareſt frie<g ref="char:cmbAbbrStroke">̄</g>d (which is as our owne ſoule) intice vs ſecretly to ſin, our eye ſhould not pitie him, but euen kill him. This was an ordinance to the peo<g ref="char:EOLhyphen"/>ple of Iſrael, to ſaue the<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb n="145" facs="tcp:16038:77"/>from offending of God. This ſame in effect ſhould we doe with our inteſtine enemies, the fleſhly affections and luſts, our greateſt ſedu<g ref="char:EOLhyphen"/>cers to offend God. <hi>A<g ref="char:EOLhyphen"/>gag</hi> and the <hi>Amalekites</hi> of our fleſh, euen our affections, whom God commands to be killed, muſt not bee ſpared, 1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 15.3. Let vs ſhew herein our greateſt o<g ref="char:EOLhyphen"/>bedience to God, and the moſt allowed zeale of <hi>Phineas,</hi> in killing and crucifying the vileſt <hi>Zimri</hi> and <hi>Cozbi</hi> of our luſts, Numb. 25.</p>
+            </div>
+            <div n="34" type="section">
+               <pb n="146" facs="tcp:16038:78"/>
+               <head>34 <hi>A concluſion for thoſe that are Chriſts.</hi>
+               </head>
+               <p>HEre is the dignitie &amp; dutie of a Chri<g ref="char:EOLhyphen"/>ſtian deſcribed. His dig<g ref="char:EOLhyphen"/>nitie, is to bee Chriſts. His dutie is, to crucifie the fleſh.
+<note place="margin">Many ſorts of falſe Chriſtians.</note> As for y<hi rend="sup">e</hi> Chri<g ref="char:EOLhyphen"/>ſtian dignitie: Many carry the name of a Chriſtian to their con<g ref="char:EOLhyphen"/>demnatio<g ref="char:cmbAbbrStroke">̄</g>; becauſe they will not be truly Chriſts to their owne ſaluation. Many haue the face and the mouth of a Chri<g ref="char:EOLhyphen"/>ſtian; but neither the heart nor hand of a Chriſtian. Some are e<g ref="char:EOLhyphen"/>nemies to Chriſt, open
+<pb n="147" facs="tcp:16038:78"/>or ſecret. Some are Chriſts, onely in ſhew; but not in ſubſtance: in appearance onely, and not ſo in effect. Some are but <hi>almoſt</hi> his, with <hi>Agrippa,</hi> Act. 26.28. and not farre from the king<g ref="char:EOLhyphen"/>dome of God, with the diſcreet Scribe, Mark. 12.34. Some intend to become Chriſts: and are onely his in a naked purpoſe, but not in pra<g ref="char:EOLhyphen"/>ctice.
+<note place="margin">The falſe Chriſtian deſcribed.</note> Some would be Chriſts, but not per<g ref="char:EOLhyphen"/>emptorily: onely with reſeruations, and cer<g ref="char:EOLhyphen"/>taine conditions: To crucifie their fleſh or to deny themſelues, they would haue excepted:
+<pb n="148" facs="tcp:16038:79"/>If, to forſake the worlds vanities, cuſtomes, abu<g ref="char:EOLhyphen"/>ſes, and ſinfull faſhions were permitted: and if to ſhun all croſſes, and become a temporizer, were things tolerable and indifferent. They would be Chriſts, if the word, repentance, faith, conſcience, and all pie<g ref="char:EOLhyphen"/>tie, were ſubordinate to their humour; or might ſtand without preiu<g ref="char:EOLhyphen"/>dice of their fleſhly affe<g ref="char:EOLhyphen"/>ctions, and luſts. All, al<g ref="char:EOLhyphen"/>moſt will doe violence to the kingdom of God, and will be Chriſts, vn<g ref="char:EOLhyphen"/>till it come to the <hi>ſwine</hi> of their luſts, with the <hi>Gadarenes,</hi> Luke 8.37.
+<pb n="149" facs="tcp:16038:79"/>then hee muſt depart. The ſacrilegious, the a<g ref="char:EOLhyphen"/>dulterers, the enuious, ambitious, malicious, auaricious, &amp;c. will bee Chriſts, they will ſerue two maſters, erect two oppoſite Kingdomes within them, Gods and Satans.</p>
+               <p>They will haue their light to haue a com<g ref="char:EOLhyphen"/>munion with darkneſſe: And Chriſt to bee in concord with <hi>Belial,</hi> 2. Cor. 6.14.</p>
+               <p>But (alas) are not all theſe ſtrongly deluded? They deceiue them<g ref="char:EOLhyphen"/>ſelues in their own ima<g ref="char:EOLhyphen"/>gination: thinking with themſelues to be ſome<g ref="char:EOLhyphen"/>thing,
+<pb n="150" facs="tcp:16038:80"/>when they are nothing, and worſe then nothing, Gal. 6.3. And many (if they had the occaſion and meanes) with all the nerues of their hart, would aſpire to become great in the world: But who doth take thought to attaine to the greateſt good,
+<note place="margin">
+                     <g ref="char:V">Ʋ</g>ery few are true Chriſtians.</note> &amp; beſt greatneſſe, to bee Chriſts? Wee ſee our calling, how that not many wiſe, not many mightie, not many no<g ref="char:EOLhyphen"/>ble (yet ſome) are cal<g ref="char:EOLhyphen"/>led. But God hath cho<g ref="char:EOLhyphen"/>ſen the worlds fooliſh, weake, vile, and naugh<g ref="char:EOLhyphen"/>tie things, to confound the wiſe, mightie, pre<g ref="char:EOLhyphen"/>cious
+<pb n="151" facs="tcp:16038:80"/>&amp; worthy things thereof, 1. Cor. 1.26. Earthly prerogatiues are in price: worldly dignities are hunted af<g ref="char:EOLhyphen"/>ter. But who doth re<g ref="char:EOLhyphen"/>gard that moſt excel<g ref="char:EOLhyphen"/>lent prerogatiue; To be the <hi>ſonnes of God,</hi> Ioh. 1.12? And that their <hi>right may bee in the tree of life,</hi> Reuel. 22.14? The moſt part therefore ſee not their miſerie, and feare not that condem<g ref="char:EOLhyphen"/>nation that hangeth a<g ref="char:EOLhyphen"/>boue their heads.</p>
+               <p>Let vs aboue al things endeuour to become Chriſts truly and con<g ref="char:EOLhyphen"/>ſtantly.
+<note place="margin">An exhor<g ref="char:EOLhyphen"/>tation that men may become true Chriſtians.</note> Let vs eſteeme it the higheſt dignitie,
+<pb n="152" facs="tcp:16038:81"/>the greateſt felicitie, the ſweeteſt contentment, the ſureſt peace, and the moſt vnſpeakable &amp; glo<g ref="char:EOLhyphen"/>rious ioy to be Chriſts. VVithout him, thy bleſ<g ref="char:EOLhyphen"/>ſings are curſes; thy light is darkneſſes; thy glory is but ſhame; thy life is but a death; and all thy hope is perditio<g ref="char:cmbAbbrStroke">̄</g>. But if thou be Chriſts, thou thy ſelf and all that thou haſt, is bleſſed: thy croſſes are for thy good; all things are thine, and for thy comfort. VVith a cheerfull heart (filled with the ioy of the holy Spirit) thou maiſt look downe to thy ſinnes, as pardoned: looke vp to
+<pb n="153" facs="tcp:16038:81"/>God, as reconciled: look into thy ſelf, as the heire of God: and looke vp to heauen, as thy dwelling place and endleſſe para<g ref="char:EOLhyphen"/>diſe: and finally, delight thy ſelfe more in this, that thou art Chriſts, the<g ref="char:cmbAbbrStroke">̄</g> in a thouſandworlds beſide. So heare, that thou maiſt bee his: ſo ſtriue, that thou maiſt be his: ſo liue, that thou may be his: and ſo die, that thou maiſt be his.</p>
+            </div>
+            <div n="35" type="section">
+               <head>35. <hi>A concluſion for the crucifying the fleſh, &amp;c.</hi>
+               </head>
+               <p>AS for the duty of a Chriſtian (the cru<g ref="char:EOLhyphen"/>cifying of the fleſh) the moſt part are farre from
+<note place="margin">Impedime<g ref="char:cmbAbbrStroke">̄</g>ts that ſtay the crucify<g ref="char:EOLhyphen"/>ing of the fleſh.</note>
+                  <pb n="154" facs="tcp:16038:82"/>this poynt. They are ſo ſunke deepe in rebellio<g ref="char:cmbAbbrStroke">̄</g>, Iſa. 31.6. ſo accuſtomed to euill, that they can do no good: they cannot change their Morian blackneſſe, nor Leopard ſpots, Ier. 13.23. They are paſt feeling, &amp; ſenſe<g ref="char:EOLhyphen"/>leſly doe boyle in their luſts &amp; affections, Eph. 4.18. <hi>They are like the wild Aſſe vſed to the wil<g ref="char:EOLhyphen"/>dernes, that ſnuffeth vp the wind by occaſion at her pleaſure, &amp;c.</hi> Ier. 2.24.</p>
+               <p>Some doe hide and couer their fleſh,
+<note place="margin">Diuersſorts of the falſe crucifying of the fleſh, &amp;c.</note> affecti<g ref="char:EOLhyphen"/>ons and luſts, vnder hy<g ref="char:EOLhyphen"/>pocriſie. Some doe re<g ref="char:EOLhyphen"/>ſtraine them at times by ſome occaſions and re<g ref="char:EOLhyphen"/>ſpects.
+<pb n="155" facs="tcp:16038:82"/>Some doe enter<g ref="char:EOLhyphen"/>taine them within, and keep them in, fro<g ref="char:cmbAbbrStroke">̄</g> break<g ref="char:EOLhyphen"/>ing forth into capitall &amp; groſer impieties: as into murther, adultery, in<g ref="char:EOLhyphen"/>ceſt, theft, &amp;c. yet they permit them to haue a full vent vnto leſſer ſins: as vnto anger, enuy,
+<note place="margin">The fleſh doth cruci<g ref="char:EOLhyphen"/>fie vs to our damna<g ref="char:EOLhyphen"/>tion.</note> co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tempt, backbiting, for<g ref="char:EOLhyphen"/>ged cauillation, priuate iniuries, &amp;c. We ca<g ref="char:cmbAbbrStroke">̄</g> ſuf<g ref="char:EOLhyphen"/>fer nothing y<hi rend="sup">t</hi> toucheth our name, our goods, or perſons; no delight<g ref="char:EOLhyphen"/>full obiects are refrai<g ref="char:EOLhyphen"/>ned; no tentations are reſiſted. It is a ſhame to ſee what ſlaues we are to our ſelues, and what obedience wee giue to
+<pb n="156" facs="tcp:16038:83"/>ſin vnto death, Rom. 6.16. &amp; how far the fleſh, affections and luſts doe crucifie vs, and wee not them. Beſide that, our affections &amp; luſts breed vs many incurable and dangerous diſeaſes, and make much diſquietnes to the mind; they pro<g ref="char:EOLhyphen"/>duce the greateſt wic<g ref="char:EOLhyphen"/>kedneſſes vnnatural cru<g ref="char:EOLhyphen"/>elties and vileneſſe, and procure endleſſe wrath to the<g ref="char:cmbAbbrStroke">̄</g>ſelues: whoſe end is da<g ref="char:cmbAbbrStroke">̄</g>nation, whoſe God is their belly, and whoſe glory is to their ſhame, which minde earthly things,
+<note place="margin">An exhor<g ref="char:EOLhyphen"/>tation to crucifie the fleſh.</note> Phil. 3.19.</p>
+               <p>If wee bee therefore Chriſts, or would be<g ref="char:EOLhyphen"/>come
+<pb n="157" facs="tcp:16038:83"/>Chriſts: Let vs condemne our ſelues, that we haue walked ſo vnworthy of him, and for that we haue prefer<g ref="char:EOLhyphen"/>red our fleſh and luſts to him, and giuen too great a teſtimony that we are not Chriſts. If we be Chriſts, let vs ac<g ref="char:EOLhyphen"/>count him deare to vs, as we are to him. Let vs apply his death and croſſe to our harts; that as by the merit thereof wee get our ſins pardo<g ref="char:EOLhyphen"/>ned; ſo by the vertue of the ſame wee may haue the<g ref="char:cmbAbbrStroke">̄</g> alſo mortified. Look vpon him whom thou haſt pierced, &amp; lament for him, as one mourn<g ref="char:EOLhyphen"/>eth
+<pb n="158" facs="tcp:16038:84"/>for his onely ſonne; and bee ſory for him, as one is for his firſt borne, Zach. 12.10. And ſo de<g ref="char:EOLhyphen"/>teſt ſinne to the death: feare Gods wrath, re<g ref="char:EOLhyphen"/>ioice greatly in thy ran<g ref="char:EOLhyphen"/>ſome, and in nothing more; and let this ioy ſtir vp thy heart both to crucifie thy fleſh, &amp; the world to thy ſelfe, and thy ſelfe to them, Gal. 6.14. Let his loue ſharpen thy loue: <hi>Cos amoris a<g ref="char:EOLhyphen"/>mor,</hi> Pro. 8.17. His loue is without <hi>paragon.</hi> It e<g ref="char:EOLhyphen"/>uer ſtandeth in the <hi>Ze<g ref="char:EOLhyphen"/>nith.</hi> Hee loued vs vnto the death. Greater loue than this hath no man, whe<g ref="char:cmbAbbrStroke">̄</g> any ma<g ref="char:cmbAbbrStroke">̄</g> beſtoweth
+<pb n="159" facs="tcp:16038:84"/>his life on his friends, Ioh. 15.13. He is <hi>rich</hi> in mercy, Epheſ. 2.4. His loue <hi>paſſeth all</hi> know<g ref="char:EOLhyphen"/>ledge, Eph. 3.19. It is <hi>e<g ref="char:EOLhyphen"/>uerlaſting,</hi> and inſepara<g ref="char:EOLhyphen"/>ble from vs, &amp; we from it, Ier. 31.3. Rom. 8.35. It is neither hid, neither treaſured vp only in his Word; but <hi>ſhed abroad</hi> into our hearts by the Spirit, Rom. 5.5. Wee muſt know it, and ſen<g ref="char:EOLhyphen"/>ſibly feele it, Eph. 3.19. That by theſe <hi>cords of man,</hi> and bands of <hi>loue,</hi> Hoſ. 11.4. he may draw vs to himſelfe, and that wee may come to him both weeping, Ier. 31.9. and reioycing with ioy
+<pb n="160" facs="tcp:16038:85"/>vnſpeakable &amp; glorious, 1. Pet. 1.8. euen reioy<g ref="char:EOLhyphen"/>cing in trembling, Pſal. 2.11. becauſe of that great conſolation in Chriſt, and comfort of loue, Phil. 3.1. And ha<g ref="char:EOLhyphen"/>uing our harts conſtrai<g ref="char:EOLhyphen"/>ned by his loue, 2. Cor. 5.14. that we may cru<g ref="char:EOLhyphen"/>cifie theſe both <hi>his</hi> and <hi>our</hi> moſt deadly ene<g ref="char:EOLhyphen"/>mies. God of his ſuper<g ref="char:EOLhyphen"/>abundant mercy grant, y<hi rend="sup">t</hi> we may once truly become Chriſts, &amp; that both in him, &amp; by him, and for him, wee may <hi>crucifie the fleſh, the affections and luſts,</hi> Gal. 5.24.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:16038:85"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
